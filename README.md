@@ -94,7 +94,7 @@
 
 ---
 
-## 🎓 **Certifications**
+## 🎓 **Certifications** 
 ✔️ **Spring Boot & Micro Services Developer** – Udemy
 ✔️ **Aws Essential Training** – LinkedIn Learning  
 ✔️ **Microsoft Azure Training** – Microsoft  
