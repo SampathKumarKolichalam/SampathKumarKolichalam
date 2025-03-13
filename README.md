@@ -95,9 +95,12 @@
 ---
 
 ## 🎓 **Certifications**  
-✔️ **Spring Boot & Microservices Developer** – Udemy | ✔️ **AWS Essential Training** – LinkedIn Learning  
-✔️ **Microsoft Azure Training** – Microsoft | ✔️ **MongoDB & MySQL Training** – Simplilearn  
+✔️ **Spring Boot & Microservices Developer** – Udemy  
+✔️ **AWS Essential Training** – LinkedIn Learning  
+✔️ **Microsoft Azure Training** – Microsoft  
+✔️ **MongoDB & MySQL Training** – Simplilearn  
 ✔️ **React.js & Node.js Training** – LinkedIn Learning  
+  
 
 ---
 
