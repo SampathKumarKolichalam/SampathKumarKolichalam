@@ -104,8 +104,8 @@
 
 ---
 
-## 🏏 **Hobbies & Interests**
-🎮 **Playing Cricket** – Passionate about strategy & teamwork.  
+## 🎭 **Hobbies & Interests**
+🏏 **Playing Cricket** – Passionate about strategy & teamwork.  
 👨‍🍳 **Cooking** – Love experimenting with new dishes.  
 ✈️ **Traveling** – Exploring new cultures & places excites me.  
 
