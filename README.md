@@ -46,42 +46,62 @@ I’m a **Full Stack Developer** with **3+ years of experience** building and de
 ## 💼 **Professional Experience**
 
 ### 🏢 D3E Studio Inc, USA — *Full Stack Developer*  
-📅 *Aug 2024 – Present*  
-- Developed 300+ reusable UI components in React.js, Redux, and Tailwind CSS.  
-- Engineered REST & GraphQL APIs in Node.js & Spring Boot, serving 100K+ daily users with 30% faster response.  
-- Automated CI/CD pipelines using Docker, Kubernetes, Jenkins — reducing deployment time by 40%.  
-- Secured applications with OAuth 2.0, JWT, and role-based access control.
+📅 *Aug 2024 – Present*
+
+- Developed & optimized 300+ reusable UI components using React.js, Redux, and Tailwind CSS, enhancing frontend performance by 35%.
+- Designed & deployed high-performance RESTful & GraphQL APIs with Node.js & Spring Boot, handling 100,000+ daily transactions with 30% lower latency.
+- Implemented OAuth 2.0 & JWT authentication, ensuring secure role-based access and industry-standard security compliance.
+- Automated CI/CD pipelines using Docker, Kubernetes, and Jenkins, reducing deployment time by 40%.
+- Optimized SQL & NoSQL queries (PostgreSQL, MongoDB), improving data retrieval speed by 35% and reducing database load.
+- Integrated Apache Kafka for real-time data streaming, ensuring low-latency processing and high system availability.
 
 ### 🏢 Nitya Software Solutions, India — *Full Stack Developer*  
-📅 *May 2021 – Jul 2023*  
-- Built 350+ frontend components and robust backend services with Spring Boot & Node.js.  
-- Achieved 99.8% uptime and 15% cost reduction through AWS & GCP deployment.  
-- Integrated MySQL & MongoDB with query optimization and security best practices.
+📅 *May 2021 – July 2023*
+
+- Designed & developed 250+ reusable UI components using React.js, Bootstrap & Material UI, improving UX & mobile responsiveness by 90%.
+- Built scalable backend services & RESTful APIs using Spring Boot & Node.js, handling 20,000+ daily user requests.
+- Deployed & optimized applications on AWS & GCP, reducing infrastructure costs by 15% while improving scalability.
+- Integrated MySQL and MongoDB with indexing and schema tuning to reduce query load times by 30%.
+- Secured applications using Spring Security, OAuth 2.0, and JWT for user-level access control.
+- Led Agile sprint planning & code reviews, ensuring 95%+ code quality and timely feature releases.
+- Wrote unit and integration tests using JUnit and Mockito, increasing test coverage to 90% and reducing bugs by 35%.
 
 ### 🏢 AI Walkers, India — *Python Developer*  
-📅 *Jan 2021 – Apr 2021*  
-- Automated data pipelines using Python and Pandas, improving efficiency by 40%.  
-- Built ML-based resume analysis tools and REST APIs using Flask.
+📅 *Jan 2021 – Apr 2021*
+
+- Automated data processing workflows using Python & Pandas, reducing manual workload by 40%.
+- Optimized SQL queries & API integrations, cutting database response time by 30% and enhancing system efficiency.
+- Developed ML-based text classification scripts, enabling automated data insights extraction.
+- Built RESTful APIs in Flask, integrating ML models into real-time applications.
 
 ---
 
 ## 🌟 **Projects**
 
-### 🛒 [Amazon Clone E-Commerce Platform](https://github.com/SampathKumarKolichalam/Amazon-Clone-Web-Application)  
-**React.js + Spring Boot + MongoDB + AWS**  
-Built a cloud-native e-commerce app serving 10,000+ users with microservices, JWT auth, and secure payments.
+### 🛒 [Amazon-like E-Commerce Platform](https://github.com/SampathKumarKolichalam/Amazon-Clone-Web-Application)  
+**React.js | Spring Boot | MongoDB | AWS**  
+- Built a scalable full-stack e-commerce platform handling 4000+ real-time users.  
+- Implemented microservices for user auth, product management, and payment systems.  
+- Integrated secure JWT authentication, role-based access control, and MongoDB-based cart/order systems.  
+- Deployed on AWS (EC2, RDS, S3) ensuring 99.9% uptime.
 
 ### 🌐 [Portfolio Website](https://github.com/SampathKumarKolichalam/Portfolio-Website)  
-**React.js + Node.js + MongoDB + Vercel**  
-A dynamic personal portfolio with project showcase and SEO-optimization.
+**React.js | Node.js | MongoDB | Vercel**  
+- Developed a personal portfolio website showcasing projects and achievements.  
+- Integrated a project gallery, contact form, and dynamic content management.  
+- Deployed on Vercel and connected to MongoDB Atlas for high availability.
 
-### 📄 [AI Resume Analyzer](https://github.com/SampathKumarKolichalam/Smart-Resume-Analysis-Using-NLP)  
-**Python + NLP + FastAPI**  
-Built an intelligent resume parser with job matching logic and ML-based scoring.
+### 📄 [AI-Powered Resume Analyzer](https://github.com/SampathKumarKolichalam/Smart-Resume-Analysis-Using-NLP)  
+**Python | FastAPI | MongoDB | NLP (SpaCy)**  
+- Built a machine-learning tool for resume parsing and job match scoring using NLP.  
+- Used text classification models to analyze and score resumes with 40% improved efficiency.  
+- Integrated with a Flask REST API and MongoDB backend.
 
-### 🩺 [Pneumonia Detection (ML)](https://github.com/K-Roshini-Reddy/Capstone---Team_2)  
-**TensorFlow + Vision Transformers + Flask**  
-Achieved 90.65% accuracy with real-time prediction and AWS deployment.
+### 🩺 [Pneumonia Detection (AI)](https://github.com/K-Roshini-Reddy/Capstone---Team_2)  
+**TensorFlow | Vision Transformers | Flask | OpenCV**  
+- Developed a Vision Transformer model with 90.65% accuracy for pneumonia detection from chest X-rays.  
+- Reduced false positives by 25% over CNN baselines.  
+- Deployed Flask-based inference pipeline on AWS for real-time medical diagnostics.
 
 ---
 
