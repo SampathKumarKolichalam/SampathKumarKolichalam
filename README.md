@@ -27,7 +27,7 @@ I’m a **Full Stack Developer** with **3+ years of experience** building and de
 
 **Lingaya’s Vidyapeeth, India**  
 📅 *August 2018 – June 2022*  
-🎓 *Bachelor of Technology in Computer Science & Engineering* – CGPA: 9.2/10
+🎓 *Bachelor of Technology in Computer Science & Engineering* – CGPA: 9.2/10  
 📌 Coursework: **Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, Web Development, Cybersecurity** 
 
 ---
