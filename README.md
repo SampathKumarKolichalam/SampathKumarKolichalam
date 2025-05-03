@@ -1,7 +1,7 @@
 ## 👋 Hello! I'm Sampath Kumar Kolichalam
 
 🚀 **Full Stack Developer | Cloud & DevOps Enthusiast | Scalable Systems Builder**  
-📍 Kent, OH | 📧 [sampathkumarkolichalam@gmail.com](mailto:sampathkumarkolichalam@gmail.com) | 📞 (330)-554-1481  
+📍 Kent, OH | 📧 [sampathkumarkolichalam@gmail.com](mailto:sampathkumarkolichalam@gmail.com) | 📞 +1 (330)-554-1481  
 🔗 [LinkedIn](https://www.linkedin.com/in/sampath-kumar-kolichalam-18b57b1ab/) | 💻 [GitHub](https://github.com/SampathKumarKolichalam)
 
 ---
