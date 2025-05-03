@@ -78,30 +78,80 @@ I’m a **Full Stack Developer** with **3+ years of experience** building and de
 
 ## 🌟 **Projects**
 
-### 🛒 [Amazon-like E-Commerce Platform](https://github.com/SampathKumarKolichalam/Amazon-Clone-Web-Application)  
-**React.js | Spring Boot | MongoDB | AWS**  
-- Built a scalable full-stack e-commerce platform handling 4000+ real-time users.  
-- Implemented microservices for user auth, product management, and payment systems.  
-- Integrated secure JWT authentication, role-based access control, and MongoDB-based cart/order systems.  
-- Deployed on AWS (EC2, RDS, S3) ensuring 99.9% uptime.
+---
 
-### 🌐 [Portfolio Website](https://github.com/SampathKumarKolichalam/Portfolio-Website)  
-**React.js | Node.js | MongoDB | Vercel**  
-- Developed a personal portfolio website showcasing projects and achievements.  
-- Integrated a project gallery, contact form, and dynamic content management.  
-- Deployed on Vercel and connected to MongoDB Atlas for high availability.
+### 🛒 Amazon Clone – Full Stack Web Application  
+**A scalable e-commerce platform built with modern web technologies!**  
+🔗 [View Project](https://github.com/SampathKumarKolichalam/Amazon-Clone-Web-Application)
 
-### 📄 [AI-Powered Resume Analyzer](https://github.com/SampathKumarKolichalam/Smart-Resume-Analysis-Using-NLP)  
-**Python | FastAPI | MongoDB | NLP (SpaCy)**  
-- Built a machine-learning tool for resume parsing and job match scoring using NLP.  
-- Used text classification models to analyze and score resumes with 40% improved efficiency.  
-- Integrated with a Flask REST API and MongoDB backend.
+#### 🛠️ Tech Stack
+React.js • Redux • Spring Boot • Java • MongoDB • MySQL • Docker • Kubernetes • AWS (EC2, S3, RDS) • JWT • Stripe/PayPal
 
-### 🩺 [Pneumonia Detection (AI)](https://github.com/K-Roshini-Reddy/Capstone---Team_2)  
-**TensorFlow | Vision Transformers | Flask | OpenCV**  
-- Developed a Vision Transformer model with 90.65% accuracy for pneumonia detection from chest X-rays.  
-- Reduced false positives by 25% over CNN baselines.  
-- Deployed Flask-based inference pipeline on AWS for real-time medical diagnostics.
+#### 🔑 Key Features
+- 🔐 Implemented secure **user authentication** and **JWT-based authorization** for account access.
+- 🛍️ Built dynamic **product listing pages** with real-time filters, sort, and search features.
+- 🛒 Developed a **shopping cart system** with quantity adjustment, local storage sync, and checkout workflow.
+- 💳 Integrated **Stripe/PayPal** for seamless payment processing.
+- 🧱 Designed using **microservices architecture** for scalability and maintainability.
+- ☁️ **Deployed on AWS** using EC2 for compute, RDS for relational data, and S3 for static assets.
+- 🐳 Containerized backend/frontend with **Docker**, orchestrated using **Kubernetes**.
+- ⚡ Optimized database queries and API calls to improve performance by 30%.
+- 🧪 Built REST APIs with Swagger documentation and Postman tests.
+
+---
+
+### 🌐 Portfolio Website – Personal Developer Portfolio  
+**A modern, responsive portfolio showcasing my work, skills, and contact info.**  
+🔗 [View Project](https://github.com/SampathKumarKolichalam/Portfolio-Website)
+
+#### 🛠️ Tech Stack  
+React.js • Node.js • Express.js • MongoDB • Tailwind CSS • Vercel • AI Chatbot
+
+#### 🔑 Key Features
+- 🎨 Created a **responsive UI** using Tailwind CSS for seamless experience across devices.
+- 📂 Implemented a **dynamic project showcase** connected to MongoDB for auto-update.
+- 🤖 Added an **AI chatbot** to help visitors explore projects and ask questions.
+- 📬 Developed a fully working **contact form** backed by Node.js and MongoDB.
+- 🔍 Integrated **SEO best practices** to improve discoverability.
+- 🚀 Deployed on **Vercel** for fast global access with zero downtime.
+- 🌐 Setup domain linking and HTTPS encryption.
+
+---
+
+### 📄 Smart Resume Analyzer – AI & NLP Based Tool  
+**AI-driven resume parser and job relevance scorer using NLP & Machine Learning.**  
+🔗 [View Project](https://github.com/SampathKumarKolichalam/Smart-Resume-Analysis-Using-NLP)
+
+#### 🛠️ Tech Stack  
+Python • SpaCy • FastAPI • MongoDB • Streamlit • Flask • Docker
+
+#### 🔑 Key Features
+- 📄 Developed NLP pipelines to extract **key resume fields**: name, skills, education, and experience.
+- 📊 Built **machine learning models** to match resumes with job descriptions and calculate relevance scores.
+- 🧠 Trained custom **text classification models** for resume ranking and filtering.
+- 🚀 Designed **RESTful APIs** with FastAPI for real-time resume analysis.
+- 💻 Built a **Streamlit frontend** for HR teams to upload and evaluate resumes interactively.
+- ☁️ Deployed using **Docker containers** for portable development and production use.
+- 🔁 Enabled MongoDB integration to persist structured resume data for future queries.
+
+---
+
+### 🩺 Pneumonia Disease Detection – AI/ML for Healthcare  
+**AI-powered medical imaging system for pneumonia detection using deep learning.**  
+🔗 [View Project](https://github.com/K-Roshini-Reddy/Capstone---Team_2)  
+🎥 [Watch Demo](https://video.kent.edu/media/Capstone%20Project%20Demo/1_u6w5bck1)
+
+#### 🛠️ Tech Stack  
+TensorFlow • PyTorch • Vision Transformers • CNN • Flask • OpenCV • Docker
+
+#### 🔑 Key Features
+- 🧠 Trained a **Vision Transformer (ViT)** model with **90.65% accuracy** on chest X-ray datasets.
+- 📉 Reduced false positives by 25% compared to traditional CNN models.
+- 🩺 Built an end-to-end **image classification pipeline** with real-time predictions.
+- 🔬 Used **OpenCV** for preprocessing (normalization, resizing, augmentation) of X-ray images.
+- 🔄 Developed a **Flask API** to expose the model inference for UI and API access.
+- 🧪 Included a **POST /predict** endpoint to upload chest X-rays and return predictions.
+- 📦 Packaged the application with **Docker** for reproducibility and scalability in hospital environments.
 
 ---
 
