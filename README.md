@@ -78,8 +78,6 @@ I’m a **Full Stack Developer** with **3+ years of experience** building and de
 
 ## 🌟 **Projects**
 
----
-
 ### 🛒 Amazon Clone – Full Stack Web Application  
 **A scalable e-commerce platform built with modern web technologies!**  
 🔗 [View Project](https://github.com/SampathKumarKolichalam/Amazon-Clone-Web-Application)
@@ -98,7 +96,6 @@ React.js • Redux • Spring Boot • Java • MongoDB • MySQL • Docker •
 - ⚡ Optimized database queries and API calls to improve performance by 30%.
 - 🧪 Built REST APIs with Swagger documentation and Postman tests.
 
----
 
 ### 🌐 Portfolio Website – Personal Developer Portfolio  
 **A modern, responsive portfolio showcasing my work, skills, and contact info.**  
@@ -116,7 +113,6 @@ React.js • Node.js • Express.js • MongoDB • Tailwind CSS • Vercel • 
 - 🚀 Deployed on **Vercel** for fast global access with zero downtime.
 - 🌐 Setup domain linking and HTTPS encryption.
 
----
 
 ### 📄 Smart Resume Analyzer – AI & NLP Based Tool  
 **AI-driven resume parser and job relevance scorer using NLP & Machine Learning.**  
@@ -134,7 +130,6 @@ Python • SpaCy • FastAPI • MongoDB • Streamlit • Flask • Docker
 - ☁️ Deployed using **Docker containers** for portable development and production use.
 - 🔁 Enabled MongoDB integration to persist structured resume data for future queries.
 
----
 
 ### 🩺 Pneumonia Disease Detection – AI/ML for Healthcare  
 **AI-powered medical imaging system for pneumonia detection using deep learning.**  
