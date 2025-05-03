@@ -23,11 +23,12 @@ I’m a **Full Stack Developer** with **3+ years of experience** building and de
 **Kent State University, OH**  
 📅 *August 2023 – December 2024*  
 🎓 *Master of Science in Computer Science* – GPA: 3.8/4.0  
-🧾 Focus: Cloud Computing, Advanced Databases, AI & ML, Distributed Systems
+📌 Coursework: **Advanced Database Systems, Cloud Computing, Software Architecture, Advanced Algorithms, Web Technologies, Distributed Systems, Artificial Intelligence & Machine Learning**  
 
 **Lingaya’s Vidyapeeth, India**  
 📅 *August 2018 – June 2022*  
 🎓 *Bachelor of Technology in Computer Science & Engineering* – CGPA: 9.2/10
+📌 Coursework: **Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, Web Development, Cybersecurity** 
 
 ---
 
