@@ -1,78 +1,78 @@
 ## 👋 Hello! I'm Sampath Kumar Kolichalam
 
-🚀 **Full Stack Developer | Cloud & DevOps Enthusiast | Scalable Systems Builder**  
-📍 Kent, OH | 📧 [sampathkumarkolichalam@gmail.com](mailto:sampathkumarkolichalam@gmail.com) | 📞 +1 (330)-554-1481  
+🚀 **Full Stack Developer | Data Engineer | Data Analyst**  
+📍 Salt Lake City, UT | 📧 [sampathkumarkolichalam@gmail.com](mailto:sampathkumarkolichalam@gmail.com) | 📞 (330) 554-1481  
 🔗 [LinkedIn](https://www.linkedin.com/in/sampath-kumar-kolichalam-18b57b1ab/) | 💻 [GitHub](https://github.com/SampathKumarKolichalam)
 
 ---
 
-### 🧠 **About Me**
+### 🧠 About Me
 
-I’m a **Full Stack Developer** with **3+ years of experience** building and deploying high-performance web applications across frontend and backend ecosystems. My strength lies in designing cloud-native, scalable, and secure systems with **Java, Spring Boot, React.js**, and **Node.js**. I bring deep experience with **REST/GraphQL APIs**, **CI/CD pipelines**, and **cloud infrastructure** like AWS, Azure, and GCP.
+I’m a results-oriented Full Stack Developer with 3+ years of experience designing and developing scalable web applications, APIs, and data pipelines using Java, Spring Boot, Node.js, React.js, SQL, and Python. I specialize in building secure, cloud-native solutions with CI/CD, REST APIs, and analytical dashboards using Power BI and PySpark.
+
+Currently contributing to a Resume Intelligence Platform at D3E Studio — leading full stack modules, designing backend microservices, integrating resume parsing pipelines in PySpark, and enabling recruiter-facing analytics with Power BI.
 
 💡 Key Strengths:
-- 🔧 Full Stack Development: React.js, Angular, Spring Boot, Node.js  
-- ☁️ Cloud & DevOps: Docker, Kubernetes, Jenkins, GitHub Actions  
-- 🔐 API Security: OAuth 2.0, JWT, RBAC  
-- ⚙️ Microservices & Performance Optimization
+- 🔧 Full Stack Development: Spring Boot, Node.js, React.js, Tailwind CSS
+- ☁️ DevOps & Cloud: Docker, GitHub Actions, AWS (S3, ECS, EC2), Azure
+- 📊 Data Engineering & Analytics: PySpark, Airflow, SQL, Power BI
+- 🔐 API Security: OAuth 2.0, JWT, Role-Based Access Control
 
 ---
 
-## 🎓 **Education**
+## 🎓 Education
 
 **Kent State University, OH**  
-📅 *August 2023 – December 2024*  
-🎓 *Master of Science in Computer Science* – GPA: 3.8/4.0  
-📌 Coursework: **Advanced Database Systems, Cloud Computing, Software Architecture, Advanced Algorithms, Web Technologies, Distributed Systems, Artificial Intelligence & Machine Learning**  
+*M.S. in Computer Science*  
+📅 Aug 2023 – Dec 2024 | GPA: 3.8/4.0
 
 **Lingaya’s Vidyapeeth, India**  
-📅 *August 2018 – June 2022*  
-🎓 *Bachelor of Technology in Computer Science & Engineering* – CGPA: 9.2/10  
-📌 Coursework: **Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, Web Development, Cybersecurity** 
+*B.Tech in Computer Science & Engineering*  
+📅 Aug 2018 – Jun 2022 | CGPA: 9.2/10
 
 ---
 
-## 🛠️ **Technical Skills**
+## 🛠️ Technical Skills
 
-**Languages:** Java, JavaScript, TypeScript, Python, SQL, R, C++  
-**Frontend:** React.js, Angular, Tailwind CSS, Material UI, Bootstrap  
-**Backend:** Spring Boot, Node.js, Flask, Express.js, GraphQL  
-**DevOps & Cloud:** AWS, GCP, Azure, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions  
-**Databases:** MySQL, PostgreSQL, MongoDB, Redis  
-**Tools:** Git, GitHub, Bitbucket, Postman, JIRA, JUnit, Jest, Mocha
+**Languages:** Java, JavaScript, TypeScript, Python, SQL, C++  
+**Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap, Material UI  
+**Backend & APIs:** Spring Boot, Node.js, Express.js, REST APIs, JWT  
+**Databases:** MySQL, PostgreSQL, MongoDB, Delta Lake  
+**Data Engineering:** PySpark, Airflow, Power BI, Solr  
+**DevOps & Cloud:** Docker, GitHub Actions, AWS, Azure  
+**Tools:** Postman, JIRA, JUnit, Git, GitHub, Thunder Client
 
 ---
 
-## 💼 **Professional Experience**
+## 💼 Professional Experience
 
 ### 🏢 D3E Studio Inc, USA — *Full Stack Developer*  
-📅 *Aug 2024 – Present*
+📅 Aug 2024 – Present | Salt Lake City, UT
 
-- Developed & optimized 300+ reusable UI components using React.js, Redux, and Tailwind CSS, enhancing frontend performance by 35%.
-- Designed & deployed high-performance RESTful & GraphQL APIs with Node.js & Spring Boot, handling 100,000+ daily transactions with 30% lower latency.
-- Implemented OAuth 2.0 & JWT authentication, ensuring secure role-based access and industry-standard security compliance.
-- Automated CI/CD pipelines using Docker, Kubernetes, and Jenkins, reducing deployment time by 40%.
-- Optimized SQL & NoSQL queries (PostgreSQL, MongoDB), improving data retrieval speed by 35% and reducing database load.
-- Integrated Apache Kafka for real-time data streaming, ensuring low-latency processing and high system availability.
+• Built 200+ dynamic UI components using React.js, Tailwind CSS & Redux, improving recruiter dashboard load time by 35%.
+• Developed Spring Boot & Node.js microservices for user auth, profile search & recruiter access control, reducing backend latency by 30%.
+• Designed an AI-powered user tracking module using MongoDB & SQL to log user behavior, driving 2x recruiter engagement insights.
+• Collaborated with data engineering teams on PySpark pipelines (Databricks) and Airflow DAGs to automate resume parsing & validation.
+• Created Power BI dashboards from MySQL/Delta Lake to visualize candidate scoring, cutting manual reporting by 40%.
+• Automated CI/CD workflows with Docker & GitHub Actions, deploying to AWS (S3, ECS, EC2) — reducing release cycles by 45%.
 
-### 🏢 Nitya Software Solutions, India — *Full Stack Developer*  
-📅 *May 2021 – July 2023*
+### 🏢 NITYA Software Solutions, India — *Full Stack Developer*  
+📅 May 2021 – Jul 2023 | Hyderabad, India
 
-- Designed & developed 250+ reusable UI components using React.js, Bootstrap & Material UI, improving UX & mobile responsiveness by 90%.
-- Built scalable backend services & RESTful APIs using Spring Boot & Node.js, handling 20,000+ daily user requests.
-- Deployed & optimized applications on AWS & GCP, reducing infrastructure costs by 15% while improving scalability.
-- Integrated MySQL and MongoDB with indexing and schema tuning to reduce query load times by 30%.
-- Secured applications using Spring Security, OAuth 2.0, and JWT for user-level access control.
-- Led Agile sprint planning & code reviews, ensuring 95%+ code quality and timely feature releases.
-- Wrote unit and integration tests using JUnit and Mockito, increasing test coverage to 90% and reducing bugs by 35%.
+• Built 250+ reusable UI components using React.js, Material UI & Bootstrap, improving dashboard responsiveness by 45% across devices.
+• Developed RESTful APIs in Spring Boot for invoices, user management & reporting; integrated MySQL & Redis to reduce query latency by 30%.
+• Refactored backend architecture to support modular workflows and billing operations for an internal accounting platform.
+• Wrote robust unit and integration test suites using JUnit, Mockito & Postman, cutting regressions by 40%.
+• Automated CI/CD pipelines using GitHub Actions; improved release cycle efficiency by 35%.
+• Collaborated with product & UX teams to enhance interface usability, increasing task completion rates by 50%.
 
-### 🏢 AI Walkers, India — *Python Developer*  
-📅 *Jan 2021 – Apr 2021*
+### 🏢 AI Walkers, India — *Python Developer Intern*  
+📅 Jan 2021 – Apr 2021 | Hyderabad, India
 
-- Automated data processing workflows using Python & Pandas, reducing manual workload by 40%.
-- Optimized SQL queries & API integrations, cutting database response time by 30% and enhancing system efficiency.
-- Developed ML-based text classification scripts, enabling automated data insights extraction.
-- Built RESTful APIs in Flask, integrating ML models into real-time applications.
+• Automated data processing workflows using Python, Pandas & NumPy; reduced manual workload by 40%.
+• Optimized SQL queries & integrated APIs, cutting response time by 30% and boosting data pipeline efficiency.
+• Built ML-based classification scripts for NLP tasks, enabling automated data insights from structured/unstructured text.
+• Developed REST APIs in Flask to serve ML models in real-time applications and improve integration with front-end systems.
 
 ---
 
