@@ -49,12 +49,12 @@ Currently contributing to a Resume Intelligence Platform at D3E Studio — leadi
 ### 🏢 D3E Studio Inc, USA — *Full Stack Developer*  
 📅 Aug 2024 – Present | Salt Lake City, UT
 
-• Built 200+ dynamic UI components using React.js, Tailwind CSS & Redux, improving recruiter dashboard load time by 35%.
-• Developed Spring Boot & Node.js microservices for user auth, profile search & recruiter access control, reducing backend latency by 30%.
-• Designed an AI-powered user tracking module using MongoDB & SQL to log user behavior, driving 2x recruiter engagement insights.
-• Collaborated with data engineering teams on PySpark pipelines (Databricks) and Airflow DAGs to automate resume parsing & validation.
-• Created Power BI dashboards from MySQL/Delta Lake to visualize candidate scoring, cutting manual reporting by 40%.
-• Automated CI/CD workflows with Docker & GitHub Actions, deploying to AWS (S3, ECS, EC2) — reducing release cycles by 45%.
+• Built 200+ dynamic UI components using React.js, Tailwind CSS & Redux, improving recruiter dashboard load time by 35%.     
+• Developed Spring Boot & Node.js microservices for user auth, profile search & recruiter access control, reducing backend latency by 30%.   
+• Designed an AI-powered user tracking module using MongoDB & SQL to log user behavior, driving 2x recruiter engagement insights.   
+• Collaborated with data engineering teams on PySpark pipelines (Databricks) and Airflow DAGs to automate resume parsing & validation.    
+• Created Power BI dashboards from MySQL/Delta Lake to visualize candidate scoring, cutting manual reporting by 40%.    
+• Automated CI/CD workflows with Docker & GitHub Actions, deploying to AWS (S3, ECS, EC2) — reducing release cycles by 45%.   
 
 ### 🏢 NITYA Software Solutions, India — *Full Stack Developer*  
 📅 May 2021 – Jul 2023 | Hyderabad, India
@@ -152,11 +152,11 @@ TensorFlow • PyTorch • Vision Transformers • CNN • Flask • OpenCV • 
 
 ## 📜 **Certifications**
 
-- ✅ Spring Boot & Microservices – *Udemy*  
-- ✅ AWS Essential Training – *LinkedIn Learning*  
-- ✅ Microsoft Azure AI Essentials – *Microsoft*  
-- ✅ Career Essentials in Software Development – *LinkedIn & Microsoft*  
-- ✅ React & Node.js Development – *LinkedIn Learning*
+- Spring Boot & Microservices – Udemy  
+- AWS Developer Training – LinkedIn Learning  
+- React Developer – LinkedIn Learning  
+- Microsoft Azure AI Essentials – Microsoft  
+- Career Essentials in Software Development – LinkedIn/Microsoft 
 - 
 ---
 
