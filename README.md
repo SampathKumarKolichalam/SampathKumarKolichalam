@@ -47,32 +47,36 @@ Currently contributing to a Resume Intelligence Platform at D3E Studio — leadi
 ## 💼 Professional Experience
 
 ### 🏢 D3E Studio Inc, USA — *Full Stack Developer*  
-📅 Aug 2024 – Present | Salt Lake City, UT
+📍 Salt Lake City, UT | 📅 Aug 2024 – Present
 
-• Built 200+ dynamic UI components using React.js, Tailwind CSS & Redux, improving recruiter dashboard load time by 35%.     
-• Developed Spring Boot & Node.js microservices for user auth, profile search & recruiter access control, reducing backend latency by 30%.   
-• Designed an AI-powered user tracking module using MongoDB & SQL to log user behavior, driving 2x recruiter engagement insights.   
-• Collaborated with data engineering teams on PySpark pipelines (Databricks) and Airflow DAGs to automate resume parsing & validation.    
-• Created Power BI dashboards from MySQL/Delta Lake to visualize candidate scoring, cutting manual reporting by 40%.    
-• Automated CI/CD workflows with Docker & GitHub Actions, deploying to AWS (S3, ECS, EC2) — reducing release cycles by 45%.   
+- Built 200+ dynamic UI components using **React.js**, **Tailwind CSS** & **Redux**, improving recruiter dashboard load time by 35%.
+- Developed **Spring Boot** & **Node.js** microservices for user auth, profile search & recruiter access control, reducing backend latency by 30%.
+- Designed an AI-powered user tracking module using **MongoDB** & **SQL** to log user behavior, driving 2× recruiter engagement insights.
+- Collaborated with data engineering teams on **PySpark (Databricks)** pipelines & **Airflow DAGs** to automate resume parsing and validation.
+- Created **Power BI dashboards** from **MySQL/Delta Lake** to visualize candidate scoring, cutting manual reporting by 40%.
+- Automated **CI/CD** workflows using **Docker** & **GitHub Actions**, deploying to **AWS (S3, ECS, EC2)** — reducing release cycles by 45%.
+
+---
 
 ### 🏢 NITYA Software Solutions, India — *Full Stack Developer*  
-📅 May 2021 – Jul 2023 | Hyderabad, India
+📍 Hyderabad, India | 📅 May 2021 – Jul 2023
 
-• Built 250+ reusable UI components using React.js, Material UI & Bootstrap, improving dashboard responsiveness by 45% across devices.
-• Developed RESTful APIs in Spring Boot for invoices, user management & reporting; integrated MySQL & Redis to reduce query latency by 30%.
-• Refactored backend architecture to support modular workflows and billing operations for an internal accounting platform.
-• Wrote robust unit and integration test suites using JUnit, Mockito & Postman, cutting regressions by 40%.
-• Automated CI/CD pipelines using GitHub Actions; improved release cycle efficiency by 35%.
-• Collaborated with product & UX teams to enhance interface usability, increasing task completion rates by 50%.
+- Built 250+ reusable UI components using **React.js**, **Material UI**, & **Bootstrap**, improving dashboard responsiveness by 45%.
+- Developed **RESTful APIs** in **Spring Boot** for invoices, user management & reporting; optimized **MySQL** & **Redis** queries for 30% better performance.
+- Refactored backend architecture for modular workflows in an internal accounting platform.
+- Delivered robust **unit/integration tests** with **JUnit**, **Mockito**, & **Postman**, reducing regressions by 40%.
+- Automated CI/CD with **GitHub Actions**, cutting deployment cycles by 35%.
+- Collaborated with UX teams to boost task completion rates by 50% through UI improvements.
+
+---
 
 ### 🏢 AI Walkers, India — *Python Developer Intern*  
-📅 Jan 2021 – Apr 2021 | Hyderabad, India
+📍 Hyderabad, India | 📅 Jan 2021 – Apr 2021
 
-• Automated data processing workflows using Python, Pandas & NumPy; reduced manual workload by 40%.
-• Optimized SQL queries & integrated APIs, cutting response time by 30% and boosting data pipeline efficiency.
-• Built ML-based classification scripts for NLP tasks, enabling automated data insights from structured/unstructured text.
-• Developed REST APIs in Flask to serve ML models in real-time applications and improve integration with front-end systems.
+- Automated data workflows using **Python**, **Pandas**, & **NumPy**, reducing manual effort by 40%.
+- Tuned **SQL queries** & integrated APIs to improve data throughput by 30%.
+- Created ML-based text classification scripts for NLP tasks to extract structured insights.
+- Built **Flask REST APIs** for serving ML models in real-time applications.
 
 ---
 
@@ -157,7 +161,6 @@ TensorFlow • PyTorch • Vision Transformers • CNN • Flask • OpenCV • 
 - React Developer – LinkedIn Learning  
 - Microsoft Azure AI Essentials – Microsoft  
 - Career Essentials in Software Development – LinkedIn/Microsoft 
-- 
 ---
 
 ## 🗣️ Languages
