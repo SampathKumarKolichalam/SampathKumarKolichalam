@@ -101,23 +101,6 @@ React.js • Redux • Spring Boot • Java • MongoDB • MySQL • Docker •
 - 🧪 Built REST APIs with Swagger documentation and Postman tests.
 
 
-### 🌐 Portfolio Website – Personal Developer Portfolio  
-**A modern, responsive portfolio showcasing my work, skills, and contact info.**  
-🔗 [View Project](https://github.com/SampathKumarKolichalam/Portfolio-Website)
-
-#### 🛠️ Tech Stack  
-React.js • Node.js • Express.js • MongoDB • Tailwind CSS • Vercel • AI Chatbot
-
-#### 🔑 Key Features
-- 🎨 Created a **responsive UI** using Tailwind CSS for seamless experience across devices.
-- 📂 Implemented a **dynamic project showcase** connected to MongoDB for auto-update.
-- 🤖 Added an **AI chatbot** to help visitors explore projects and ask questions.
-- 📬 Developed a fully working **contact form** backed by Node.js and MongoDB.
-- 🔍 Integrated **SEO best practices** to improve discoverability.
-- 🚀 Deployed on **Vercel** for fast global access with zero downtime.
-- 🌐 Setup domain linking and HTTPS encryption.
-
-
 ### 📄 Smart Resume Analyzer – AI & NLP Based Tool  
 **AI-driven resume parser and job relevance scorer using NLP & Machine Learning.**  
 🔗 [View Project](https://github.com/SampathKumarKolichalam/Smart-Resume-Analysis-Using-NLP)
