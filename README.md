@@ -49,11 +49,11 @@ Currently contributing to a Resume Intelligence Platform at D3E Studio — leadi
 ### 🏢 D3E Studio Inc, USA — *Full Stack Developer*  
 📍 Salt Lake City, UT | 📅 Aug 2024 – Present
 
-- Built 200+ dynamic UI components using **React.js**, **Tailwind CSS** & **Redux**, improving recruiter dashboard load time by 35%.
-- Developed **Spring Boot** & **Node.js** microservices for user auth, profile search & recruiter access control, reducing backend latency by 30%.
-- Designed an AI-powered user tracking module using **MongoDB** & **SQL** to log user behavior, driving 2× recruiter engagement insights.
-- Collaborated with data engineering teams on **PySpark (Databricks)** pipelines & **Airflow DAGs** to automate resume parsing and validation.
-- Created **Power BI dashboards** from **MySQL/Delta Lake** to visualize candidate scoring, cutting manual reporting by 40%.
+- Built 150+ reusable UI components using React.js & Tailwind CSS for the Profiles module, improving load time by 35%.
+- Developed Spring Boot & Node.js microservices for profile search, user auth, RBAC and reducing API latency by 30%.
+- Built an user engagement tracking system to log user actions using MongoDB & SQL, enhancing recruiter insights. 
+- Created PySpark workflows and scheduled Airflow DAGs (Databricks over Hadoop clusters) for resume parsing.
+- Supported PowerBI dashboards with MySQL/Delta Lake to automate skill match analysis, reducing manual tasks by 40%. 
 - Automated **CI/CD** workflows using **Docker** & **GitHub Actions**, deploying to **AWS (S3, ECS, EC2)** — reducing release cycles by 45%.
 
 ---
@@ -61,12 +61,12 @@ Currently contributing to a Resume Intelligence Platform at D3E Studio — leadi
 ### 🏢 NITYA Software Solutions, India — *Full Stack Developer*  
 📍 Hyderabad, India | 📅 May 2021 – Jul 2023
 
-- Built 250+ reusable UI components using **React.js**, **Material UI**, & **Bootstrap**, improving dashboard responsiveness by 45%.
-- Developed **RESTful APIs** in **Spring Boot** for invoices, user management & reporting; optimized **MySQL** & **Redis** queries for 30% better performance.
-- Refactored backend architecture for modular workflows in an internal accounting platform.
-- Delivered robust **unit/integration tests** with **JUnit**, **Mockito**, & **Postman**, reducing regressions by 40%.
-- Automated CI/CD with **GitHub Actions**, cutting deployment cycles by 35%.
-- Collaborated with UX teams to boost task completion rates by 50% through UI improvements.
+- Built 250+ UI components using React.js, Material UI & Bootstrap for Annabooks, improving load speed by 45%. 
+- Developed Spring Boot REST APIs for invoices, role management & reports, integrating MySQL and Redis for caching. 
+- Refactored backend modules into microservices architecture, reducing billing query time by 30%. 
+- Supported Azure-based deployments using App Services & Blob Storage while assisting CI/CD pipelines. 
+- Assisted with CI/CD pipelines using Docker & GitHub Actions; explored Kubernetes for scalable, secure deployments.
+- Worked in Agile teams using JIRA to coordinate with product managers and improve sprint delivery efficiency by 50%. 
 
 ---
 
