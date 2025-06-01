@@ -13,10 +13,10 @@ I’m a results-oriented Full Stack Developer with 3+ years of experience design
 Currently contributing to a Resume Intelligence Platform at D3E Studio — leading full stack modules, designing backend microservices, integrating resume parsing pipelines in PySpark, and enabling recruiter-facing analytics with Power BI.
 
 💡 Key Strengths:
-- 🔧 Full Stack Development: Spring Boot, Node.js, React.js, Tailwind CSS
-- ☁️ DevOps & Cloud: Docker, GitHub Actions, AWS (S3, ECS, EC2), Azure
-- 📊 Data Engineering & Analytics: PySpark, Airflow, SQL, Power BI
-- 🔐 API Security: OAuth 2.0, JWT, Role-Based Access Control
+🔧 Full Stack Development: Spring Boot, Node.js, React.js, Tailwind CSS
+☁️ DevOps & Cloud: Docker, GitHub Actions, AWS (S3, ECS, EC2), Azure
+📊 Data Engineering & Analytics: PySpark, Airflow, SQL, Power BI
+🔐 API Security: OAuth 2.0, JWT, Role-Based Access Control
 
 ---
 
@@ -34,13 +34,13 @@ Currently contributing to a Resume Intelligence Platform at D3E Studio — leadi
 
 ## 🛠️ Technical Skills
 
-**Languages:** Java, JavaScript, TypeScript, Python, SQL, C++  
-**Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap, Material UI  
-**Backend & APIs:** Spring Boot, Node.js, Express.js, REST APIs, JWT  
-**Databases:** MySQL, PostgreSQL, MongoDB, Delta Lake  
-**Data Engineering:** PySpark, Airflow, Power BI, Solr  
+**Languages:** Java, JavaScript, TypeScript, Python, SQL, C++. 
+**Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap, Material UI.  
+**Backend & APIs:** Spring Boot, Node.js, Express.js, REST APIs, JWT.  
+**Databases:** MySQL, PostgreSQL, MongoDB, Delta Lake.  
+**Data Engineering:** PySpark, Airflow, Power BI, Solr.  
 **DevOps & Cloud:** Docker, GitHub Actions, AWS, Azure  
-**Tools:** Postman, JIRA, JUnit, Git, GitHub, Thunder Client
+**Tools:** Postman, JIRA, JUnit, Git, GitHub, Thunder Client.
 
 ---
 
@@ -49,24 +49,24 @@ Currently contributing to a Resume Intelligence Platform at D3E Studio — leadi
 ### 🏢 D3E Studio Inc, USA — *Full Stack Developer*  
 📍 Salt Lake City, UT | 📅 Aug 2024 – Present
 
-- Built 150+ reusable UI components using React.js & Tailwind CSS for the Profiles module, improving load time by 35%.
-- Developed Spring Boot & Node.js microservices for profile search, user auth, RBAC and reducing API latency by 30%.
-- Built an user engagement tracking system to log user actions using MongoDB & SQL, enhancing recruiter insights. 
-- Created PySpark workflows and scheduled Airflow DAGs (Databricks over Hadoop clusters) for resume parsing.
-- Supported PowerBI dashboards with MySQL/Delta Lake to automate skill match analysis, reducing manual tasks by 40%. 
-- Automated **CI/CD** workflows using **Docker** & **GitHub Actions**, deploying to **AWS (S3, ECS, EC2)** — reducing release cycles by 45%.
+- Developed 150+ reusable UI components with React.js and Tailwind CSS, enhancing performance and UX.
+- Built scalable Spring Boot and Node.js microservices for authentication (JWT, OAuth 2.0), user profiles, and recruiter workflows.
+- Integrated MongoDB, MySQL, and Solr for structured storage, analytics, and advanced search features.
+- Collaborated with data teams on PySpark pipelines and Airflow for resume parsing workflows on Databricks over Hadoop.
+- Delivered business insights through Power BI dashboards built on Delta Lake and relational data sources.
+- Automated deployments with Docker, GitHub Actions, and Kubernetes on AWS ECS/EC2, accelerating release
 
 ---
 
 ### 🏢 NITYA Software Solutions, India — *Full Stack Developer*  
 📍 Hyderabad, India | 📅 May 2021 – Jul 2023
 
-- Built 250+ UI components using React.js, Material UI & Bootstrap for Annabooks, improving load speed by 45%. 
-- Developed Spring Boot REST APIs for invoices, role management & reports, integrating MySQL and Redis for caching. 
-- Refactored backend modules into microservices architecture, reducing billing query time by 30%. 
-- Supported Azure-based deployments using App Services & Blob Storage while assisting CI/CD pipelines. 
-- Assisted with CI/CD pipelines using Docker & GitHub Actions; explored Kubernetes for scalable, secure deployments.
-- Worked in Agile teams using JIRA to coordinate with product managers and improve sprint delivery efficiency by 50%. 
+- Designed 250+ UI components for a subscription platform using React.js, Bootstrap, and TypeScript.
+- Created REST and GraphQL APIs using Spring Boot and implemented JWT-based RBAC with caching via Redis.
+- Refactored monolithic systems into microservices, improving scalability and reducing backend latency.
+- Wrote robust unit/integration tests with JUnit and Mockito to ensure quality.
+- Contributed to cloud-based CI/CD with Docker, GitHub Actions, and Azure Kubernetes deployments.
+- Practiced Agile delivery with JIRA, improving collaboration and on-time sprint completion.
 
 ---
 
@@ -87,7 +87,7 @@ Currently contributing to a Resume Intelligence Platform at D3E Studio — leadi
 🔗 [View Project](https://github.com/SampathKumarKolichalam/Amazon-Clone-Web-Application)
 
 #### 🛠️ Tech Stack
-React.js • Redux • Spring Boot • Java • MongoDB • MySQL • Docker • Kubernetes • AWS (EC2, S3, RDS) • JWT • Stripe/PayPal
+React.js • Redux • Spring Boot • Java • MongoDB • MySQL • Docker • Kubernetes • AWS (EC2, S3, RDS) • JWT 
 
 #### 🔑 Key Features
 - 🔐 Implemented secure **user authentication** and **JWT-based authorization** for account access.
