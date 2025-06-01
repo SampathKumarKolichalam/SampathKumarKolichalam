@@ -138,11 +138,11 @@ TensorFlow • PyTorch • Vision Transformers • CNN • Flask • OpenCV • 
 
 ## 📜 **Certifications**
 
-- Spring Boot & Microservices – Udemy  
-- AWS Developer Training – LinkedIn Learning  
-- React Developer – LinkedIn Learning  
-- Microsoft Azure AI Essentials – Microsoft  
-- Career Essentials in Software Development – LinkedIn/Microsoft 
+- Spring Boot & Microservices – Udemy.  
+- AWS Developer Training – LinkedIn Learning.  
+- React Developer – LinkedIn Learning. 
+- Microsoft Azure AI Essentials – Microsoft.  
+- Career Essentials in Software Development – LinkedIn/Microsoft. 
 ---
 
 ## 🗣️ Languages
