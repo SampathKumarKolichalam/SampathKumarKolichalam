@@ -93,7 +93,6 @@ React.js • Redux • Spring Boot • Java • MongoDB • MySQL • Docker •
 - 🔐 Implemented secure **user authentication** and **JWT-based authorization** for account access.
 - 🛍️ Built dynamic **product listing pages** with real-time filters, sort, and search features.
 - 🛒 Developed a **shopping cart system** with quantity adjustment, local storage sync, and checkout workflow.
-- 💳 Integrated **Stripe/PayPal** for seamless payment processing.
 - 🧱 Designed using **microservices architecture** for scalability and maintainability.
 - ☁️ **Deployed on AWS** using EC2 for compute, RDS for relational data, and S3 for static assets.
 - 🐳 Containerized backend/frontend with **Docker**, orchestrated using **Kubernetes**.
