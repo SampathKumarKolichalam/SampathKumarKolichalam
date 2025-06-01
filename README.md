@@ -13,8 +13,8 @@ I’m a results-oriented Full Stack Developer with 3+ years of experience design
 Currently contributing to a Resume Intelligence Platform at D3E Studio — leading full stack modules, designing backend microservices, integrating resume parsing pipelines in PySpark, and enabling recruiter-facing analytics with Power BI.
 
 💡 Key Strengths:
-🔧 Full Stack Development: Spring Boot, Node.js, React.js, Tailwind CSS
-☁️ DevOps & Cloud: Docker, GitHub Actions, AWS (S3, ECS, EC2), Azure
+🔧 Full Stack Development: Spring Boot, Node.js, React.js, Tailwind CSS 
+☁️ DevOps & Cloud: Docker, GitHub Actions, AWS (S3, ECS, EC2), Azure 
 📊 Data Engineering & Analytics: PySpark, Airflow, SQL, Power BI
 🔐 API Security: OAuth 2.0, JWT, Role-Based Access Control
 
