@@ -82,40 +82,6 @@ Currently contributing to a Resume Intelligence Platform at D3E Studio — leadi
 
 ## 🌟 **Projects**
 
-### 🛒 Amazon Clone – Full Stack Web Application  
-**A scalable e-commerce platform built with modern web technologies!**  
-🔗 [View Project](https://github.com/SampathKumarKolichalam/Amazon-Clone-Web-Application)
-
-#### 🛠️ Tech Stack
-React.js • Redux • Spring Boot • Java • MongoDB • MySQL • Docker • Kubernetes • AWS (EC2, S3, RDS) • JWT 
-
-#### 🔑 Key Features
-- 🔐 Implemented secure **user authentication** and **JWT-based authorization** for account access.
-- 🛍️ Built dynamic **product listing pages** with real-time filters, sort, and search features.
-- 🛒 Developed a **shopping cart system** with quantity adjustment, local storage sync, and checkout workflow.
-- 🧱 Designed using **microservices architecture** for scalability and maintainability.
-- ☁️ **Deployed on AWS** using EC2 for compute, RDS for relational data, and S3 for static assets.
-- 🐳 Containerized backend/frontend with **Docker**, orchestrated using **Kubernetes**.
-- ⚡ Optimized database queries and API calls to improve performance by 30%.
-- 🧪 Built REST APIs with Swagger documentation and Postman tests.
-
-
-### 📄 Smart Resume Analyzer – AI & NLP Based Tool  
-**AI-driven resume parser and job relevance scorer using NLP & Machine Learning.**  
-🔗 [View Project](https://github.com/SampathKumarKolichalam/Smart-Resume-Analysis-Using-NLP)
-
-#### 🛠️ Tech Stack  
-Python • SpaCy • FastAPI • MongoDB • Streamlit • Flask • Docker
-
-#### 🔑 Key Features
-- 📄 Developed NLP pipelines to extract **key resume fields**: name, skills, education, and experience.
-- 📊 Built **machine learning models** to match resumes with job descriptions and calculate relevance scores.
-- 🧠 Trained custom **text classification models** for resume ranking and filtering.
-- 🚀 Designed **RESTful APIs** with FastAPI for real-time resume analysis.
-- 💻 Built a **Streamlit frontend** for HR teams to upload and evaluate resumes interactively.
-- ☁️ Deployed using **Docker containers** for portable development and production use.
-- 🔁 Enabled MongoDB integration to persist structured resume data for future queries.
-
 
 ### 🩺 Pneumonia Disease Detection – AI/ML for Healthcare  
 **AI-powered medical imaging system for pneumonia detection using deep learning.**  
@@ -133,6 +99,23 @@ TensorFlow • PyTorch • Vision Transformers • CNN • Flask • OpenCV • 
 - 🔄 Developed a **Flask API** to expose the model inference for UI and API access.
 - 🧪 Included a **POST /predict** endpoint to upload chest X-rays and return predictions.
 - 📦 Packaged the application with **Docker** for reproducibility and scalability in hospital environments.
+
+
+### 📄 Smart Resume Analyzer – AI & NLP Based Tool  
+**AI-driven resume parser and job relevance scorer using NLP & Machine Learning.**  
+🔗 [View Project](https://github.com/SampathKumarKolichalam/Smart-Resume-Analysis-Using-NLP)
+
+#### 🛠️ Tech Stack  
+Python • SpaCy • FastAPI • MongoDB • Streamlit • Flask • Docker
+
+#### 🔑 Key Features
+- 📄 Developed NLP pipelines to extract **key resume fields**: name, skills, education, and experience.
+- 📊 Built **machine learning models** to match resumes with job descriptions and calculate relevance scores.
+- 🧠 Trained custom **text classification models** for resume ranking and filtering.
+- 🚀 Designed **RESTful APIs** with FastAPI for real-time resume analysis.
+- 💻 Built a **Streamlit frontend** for HR teams to upload and evaluate resumes interactively.
+- ☁️ Deployed using **Docker containers** for portable development and production use.
+- 🔁 Enabled MongoDB integration to persist structured resume data for future queries.
 
 ---
 
