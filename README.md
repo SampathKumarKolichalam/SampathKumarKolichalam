@@ -116,6 +116,23 @@ TensorFlow • PyTorch • Vision Transformers • CNN • Flask • OpenCV • 
 - 📦 Packaged the application with **Docker** for reproducibility and scalability in hospital environments.
 
 
+## 📊 Anna Books – Accounting & Billing Platform
+**Role:** Full Stack Developer  
+**Company:** NITYA Software Solutions Inc  
+**Duration:** May 2021 – Jul 2023  
+**Tech Stack:** React.js, TypeScript, Spring Boot, GraphQL, MySQL, Redis, Docker, Kubernetes, Azure
+
+### 🔧 Key Responsibilities & Contributions:
+- Developed 250+ reusable UI components using **React.js**, **Bootstrap**, and **TypeScript** for invoicing, expense tracking, and client management.
+- Built robust **REST** and **GraphQL APIs** in **Spring Boot** to handle billing cycles, payments, role-based access, and transaction history.
+- Implemented secure **JWT-based authentication** and **Role-Based Access Control (RBAC)** for user and admin operations.
+- Optimized backend performance by integrating **Redis caching**, reducing response times on high-volume financial queries by 30%.
+- Refactored legacy monolithic codebase into modular **microservices architecture**, improving scalability and deployment flexibility.
+- Wrote comprehensive **unit and integration tests** using **JUnit** and **Mockito**, improving code coverage and production stability.
+- Deployed services via **Docker** and **GitHub Actions**, and managed scalable environments on **Azure Kubernetes Service (AKS)**.
+- Worked in **Agile teams** using **JIRA**, ensuring timely delivery of product features across multiple sprints.
+
+
 ### 📄 Smart Resume Analyzer – AI & NLP Based Tool  
 **AI-driven resume parser and job relevance scorer using NLP & Machine Learning.**  
 🔗 [View Project](https://github.com/SampathKumarKolichalam/Smart-Resume-Analysis-Using-NLP)
