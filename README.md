@@ -16,10 +16,10 @@ Currently working at D3E Studio on an AI-powered resume intelligence platform. I
 
 **Core Strengths:**
 
-- Full Stack Development: Spring Boot, Node.js, React.js, Tailwind CSS  
-- DevOps & Cloud: Docker, GitHub Actions, AWS (S3, ECS, EC2), Azure  
-- Data Engineering & Analytics: PySpark, Airflow, SQL, Power BI  
-- API Security: OAuth 2.0, JWT, RBAC  
+- Full Stack Development: Spring Boot, Node.js, React.js, Tailwind CSS.  
+- DevOps & Cloud: Docker, GitHub Actions, AWS (S3, ECS, EC2), Azure.  
+- Data Engineering & Analytics: PySpark, Airflow, SQL, Power BI.  
+- API Security: OAuth 2.0, JWT, RBAC.  
 
 ---
 
@@ -39,13 +39,13 @@ CGPA: 9.2/10
 
 ## Technical Skills
 
-**Languages:** Java, JavaScript, TypeScript, Python, SQL, C++  
-**Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap, Material UI  
-**Backend & APIs:** Spring Boot, Node.js, Express.js, REST APIs, JWT  
-**Databases:** MySQL, PostgreSQL, MongoDB, Delta Lake  
-**Data Engineering:** PySpark, Airflow, Power BI, Apache Solr  
-**DevOps & Cloud:** Docker, GitHub Actions, AWS, Azure  
-**Tools:** Postman, JIRA, JUnit, Git, GitHub, Thunder Client
+**Languages:** Java, JavaScript, TypeScript, Python, SQL, C++.  
+**Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap, Material UI.  
+**Backend & APIs:** Spring Boot, Node.js, Express.js, REST APIs, JWT.  
+**Databases:** MySQL, PostgreSQL, MongoDB, Delta Lake.  
+**Data Engineering:** PySpark, Airflow, Power BI, Apache Solr.  
+**DevOps & Cloud:** Docker, GitHub Actions, AWS, Azure.  
+**Tools:** Postman, JIRA, JUnit, Git, GitHub, Thunder Client.
 
 ---
 
@@ -90,7 +90,7 @@ Hyderabad, India | Jan 2021 – Apr 2021
 
 ### JobsnProfiles Platform – Resume Intelligence System  
 **Role:** Full Stack Developer | D3E Studio | Aug 2024 – Present  
-**Tech Stack:** React.js, Tailwind CSS, Spring Boot, Node.js, PySpark, Airflow, Apache Solr, MongoDB, MySQL, Power BI, Docker, GitHub Actions, AWS
+**Tech Stack:** React.js, Tailwind CSS, Spring Boot, Node.js, PySpark, Airflow, Apache Solr, MongoDB, MySQL, Power BI, Docker, GitHub Actions, AWS.
 
 - Developed modules for user profiles, authentication (OAuth 2.0, JWT), and user activity tracking.
 - Integrated Apache Solr for high-speed resume and candidate search.
@@ -101,7 +101,7 @@ Hyderabad, India | Jan 2021 – Apr 2021
 ---
 
 ### Pneumonia Disease Detection – AI/ML for Healthcare  
-**Tech Stack:** TensorFlow, PyTorch, Vision Transformers, CNN, Flask, OpenCV, Docker  
+**Tech Stack:** TensorFlow, PyTorch, Vision Transformers, CNN, Flask, OpenCV, Docker.  
 [GitHub Repository](https://github.com/K-Roshini-Reddy/Capstone---Team_2)  
 [Demo Video](https://video.kent.edu/media/Capstone%20Project%20Demo/1_u6w5bck1)
 
@@ -114,7 +114,7 @@ Hyderabad, India | Jan 2021 – Apr 2021
 
 ### Anna Books – Accounting & Billing Platform  
 **Role:** Full Stack Developer | NITYA Software Solutions | May 2021 – Jul 2023  
-**Tech Stack:** React.js, TypeScript, Spring Boot, GraphQL, MySQL, Redis, Docker, Kubernetes, Azure
+**Tech Stack:** React.js, TypeScript, Spring Boot, GraphQL, MySQL, Redis, Docker, Kubernetes, Azure.
 
 - Developed 250+ reusable UI components for core financial modules.
 - Created secure REST and GraphQL APIs for billing, role management, and reporting.
@@ -125,7 +125,7 @@ Hyderabad, India | Jan 2021 – Apr 2021
 ---
 
 ### Smart Resume Analyzer – AI & NLP Based Tool  
-**Tech Stack:** Python, SpaCy, FastAPI, MongoDB, Streamlit, Flask, Docker  
+**Tech Stack:** Python, SpaCy, FastAPI, MongoDB, Streamlit, Flask, Docker.  
 [GitHub Repository](https://github.com/SampathKumarKolichalam/Smart-Resume-Analysis-Using-NLP)
 
 - Built NLP pipelines to extract structured fields from resumes.
