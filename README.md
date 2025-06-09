@@ -1,6 +1,6 @@
 # Sampath Kumar Kolichalam
 
-**Full Stack Developer | Data Engineer | Data Analyst**  
+**Full Stack Developer | Data Engineer | DevOps Engineer**  
 Salt Lake City, UT  
 Email: [sampathkumarkolichalam@gmail.com](mailto:sampathkumarkolichalam@gmail.com)  
 Phone: (330) 554-1481  
