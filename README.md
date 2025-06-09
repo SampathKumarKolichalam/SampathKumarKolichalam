@@ -155,7 +155,7 @@ Hyderabad, India | Jan 2021 – Apr 2021
 
 ## Interests
 
-Cricket, Traveling, Cooking, AI/ML Exploration
+Cricket, Traveling, Cooking, AI/ML Exploration.
 
 ---
 
