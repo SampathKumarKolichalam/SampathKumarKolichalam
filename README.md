@@ -12,7 +12,7 @@ Phone: (330) 554-1481
 
 I am a results-oriented Full Stack Developer with over 3 years of experience in designing and building scalable web applications, APIs, and data pipelines. My work integrates secure backend systems with interactive user interfaces and cloud-native infrastructures. I specialize in technologies like Spring Boot, Node.js, React.js, and PySpark, and bring strong experience in deploying and analyzing data-driven systems.
 
-Currently working at D3E Studio on an AI-powered resume intelligence platform. I lead full-stack development, architect backend services, and enable recruiter-facing analytics using Power BI and PySpark.
+Currently working at D3E Studio on an AI-powered resume intelligence platform. I work full-stack development, architect backend services, and collabrate with recruiter-facing analytics using Power BI and PySpark.
 
 **Core Strengths:**
 
