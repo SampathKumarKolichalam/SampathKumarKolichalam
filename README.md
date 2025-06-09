@@ -16,10 +16,10 @@ Currently working at D3E Studio on an AI-powered resume intelligence platform. I
 
 **Core Strengths:**
 
-- Full Stack Development: Spring Boot, Node.js, React.js, Tailwind CSS.  
-- DevOps & Cloud: Docker, GitHub Actions, AWS (S3, ECS, EC2), Azure.  
-- Data Engineering & Analytics: PySpark, Airflow, SQL, Power BI.  
-- API Security: OAuth 2.0, JWT, RBAC.  
+- **Full Stack Development:** Spring Boot, Node.js, React.js, Tailwind CSS.  
+- **DevOps & Cloud:** Docker, GitHub Actions, AWS (S3, ECS, EC2), Azure.  
+- **Data Engineering & Analytics:** PySpark, Airflow, SQL, Power BI.  
+- **API Security:** OAuth 2.0, JWT, RBAC.  
 
 ---
 
