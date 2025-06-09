@@ -82,6 +82,21 @@ Currently contributing to a Resume Intelligence Platform at D3E Studio — leadi
 
 ## 🌟 **Projects**
 
+## 🚀 JobsnProfiles Platform – Resume Intelligence System
+**Role:** Full Stack Developer  
+**Company:** D3E Studio  
+**Duration:** Aug 2024 – Present  
+**Tech Stack:** React.js, Tailwind CSS, Spring Boot, Node.js, Microservices, PySpark, Airflow, Apache Solr, MongoDB, MySQL, Power BI, Docker, GitHub Actions, AWS
+
+### 🔧 Key Responsibilities & Contributions:
+- Developed full-stack modules for user profiles, authentication (JWT, OAuth 2.0), and engagement workflows.
+- Built scalable backend microservices in Spring Boot and Node.js for secure API delivery and user data management.
+- Integrated Apache Solr for advanced, high-performance resume and candidate search functionality.
+- Engineered automated resume parsing pipelines using PySpark and Airflow, deployed on AWS.
+- Logged and analyzed user activity with MongoDB and MySQL to support data-driven features.
+- Created recruiter-facing dashboards in Power BI using Delta Lake and relational data sources.
+- Automated microservice deployments with Docker, GitHub Actions, and AWS ECS within a CI/CD framework.
+
 
 ### 🩺 Pneumonia Disease Detection – AI/ML for Healthcare  
 **AI-powered medical imaging system for pneumonia detection using deep learning.**  
