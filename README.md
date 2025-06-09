@@ -4,7 +4,8 @@
 **Location:** Salt Lake City, UT  
 **Email:** [sampathkumarkolichalam@gmail.com](mailto:sampathkumarkolichalam@gmail.com)  
 **Phone:** (330) 554-1481  
-**[LinkedIn]**(https://www.linkedin.com/in/sampath-kumar-kolichalam-18b57b1ab/) | **[GitHub]**(https://github.com/SampathKumarKolichalam)
+**[LinkedIn](https://www.linkedin.com/in/sampath-kumar-kolichalam-18b57b1ab/)**  
+**[GitHub](https://github.com/SampathKumarKolichalam)**
 
 ---
 
