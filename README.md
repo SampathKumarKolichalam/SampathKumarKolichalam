@@ -12,7 +12,7 @@
 
 I am a Full Stack Developer with 3+ years of experience building secure web applications, scalable microservices, and data-driven platforms. I specialize in delivering full-stack systems using React.js, Spring Boot, Node.js, and PySpark, along with CI/CD automation and cloud deployments on AWS.
 
-Currently at D3E Studio, I contribute to a resume intelligence platform by building authentication systems, integrating Solr-based semantic search, engineering resume parsing pipelines using PySpark and Airflow, and delivering recruiter-facing dashboards with Power BI.
+Currently at D3E Studio, I contribute to a resume intelligence platform by building authentication systems, integrating Solr-based semantic search, engineering resume parsing pipelines using PySpark, Airflow, & delivering recruiter-facing dashboards with Power BI.
 
 I enjoy solving complex engineering problems end-to-end — from UI performance to secure APIs and real-time analytics.
 
