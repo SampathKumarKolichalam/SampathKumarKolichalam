@@ -1,6 +1,6 @@
 # Sampath Kumar Kolichalam
 
-**Full Stack Developer | Data Engineer | DevOps Engineer**  
+**Full Stack Developer | Backend & Data Engineer | Cloud-Native DevOps Enthusiast**  
 **Location:** Salt Lake City, UT  
 **Email:** [sampathkumarkolichalam@gmail.com](mailto:sampathkumarkolichalam@gmail.com)  
 **Phone:** (330) 554-1481  
@@ -10,15 +10,17 @@
 
 ## About Me
 
-I am a results-oriented Full Stack Developer with over 3 years of experience in designing and building scalable web applications, APIs, and data pipelines. My work integrates secure backend systems with interactive user interfaces and cloud-native infrastructures. I specialize in technologies like Spring Boot, Node.js, React.js, and PySpark, and bring strong experience in deploying and analyzing data-driven systems.
+I am a Full Stack Developer with 3+ years of experience building secure web applications, scalable microservices, and data-driven platforms. I specialize in delivering full-stack systems using React.js, Spring Boot, Node.js, and PySpark, along with CI/CD automation and cloud deployments on AWS.
 
-Currently working at D3E Studio on an AI-powered resume intelligence platform. I work full-stack development, architect backend services, and collabrate with recruiter-facing analytics using Power BI and PySpark.
+Currently at D3E Studio, I contribute to a resume intelligence platform by building authentication systems, integrating Solr-based semantic search, engineering resume parsing pipelines using PySpark and Airflow, and delivering recruiter-facing dashboards with Power BI.
+
+I enjoy solving complex engineering problems end-to-end — from UI performance to secure APIs and real-time analytics.
 
 **Core Strengths:**
 
 - **Full Stack Development:** Spring Boot, Node.js, React.js, Tailwind CSS.  
 - **DevOps & Cloud:** Docker, GitHub Actions, AWS (S3, ECS, EC2), Azure.  
-- **Data Engineering & Analytics:** PySpark, Airflow, SQL, Power BI.  
+- **Data Engineering & Analytics:** PySpark, Airflow, SQL, Hadoop, Power BI.  
 - **API Security:** OAuth 2.0, JWT, RBAC.  
 
 ---
@@ -39,13 +41,13 @@ CGPA: 9.2/10
 
 ## Technical Skills
 
-**Languages:** Java, JavaScript, TypeScript, Python, SQL, C++.  
-**Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap, Material UI.  
-**Backend & APIs:** Spring Boot, Node.js, Express.js, REST APIs, JWT.  
-**Databases:** MySQL, PostgreSQL, MongoDB, Delta Lake.  
-**Data Engineering:** PySpark, Airflow, Power BI, Apache Solr.  
-**DevOps & Cloud:** Docker, GitHub Actions, AWS, Azure.  
-**Tools:** Postman, JIRA, JUnit, Git, GitHub, Thunder Client.
+**Languages:** Java, JavaScript, TypeScript, Python, SQL.  
+**Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap.  
+**Backend & APIs:** Spring Boot, Node.js, GraphQL, REST APIs, JWT, OAuth 2.0.  
+**Databases:** MySQL, PostgreSQL, MongoDB, Vector DB.  
+**Data Engineering:** PySpark, Apache Airflow, Power BI, Apache Solr, Semantic Search.  
+**DevOps & Cloud:** Docker, Kubernetes, GitHub Actions, AWS (ECS, S3, EC2), Azure.  
+**Tools:** JIRA, Postman, Thunder Client, JUnit, Git, Agile, RBAC.
 
 ---
 
@@ -57,7 +59,7 @@ Salt Lake City, UT | Aug 2024 – Present
 - Built scalable Spring Boot and Node.js microservices for authentication, user profile, and recruiter workflows.
 - Developed reusable frontend components using React.js and Tailwind CSS for a resume intelligence platform.
 - Integrated MongoDB, MySQL, and Apache Solr for storage, analytics, and high-speed candidate search.
-- Created PySpark pipelines and Airflow DAGs for automated resume parsing workflows on Databricks.
+- Developed automated resume parsing pipelines using PySpark and Airflow over distributed Hadoop clusters.
 - Delivered recruiter dashboards in Power BI using Delta Lake as the analytical backend.
 - Managed CI/CD and cloud deployments using Docker, GitHub Actions, and AWS ECS.
 
@@ -71,7 +73,7 @@ Hyderabad, India | May 2021 – Jul 2023
 - Integrated Redis caching, improving API performance for financial reports and queries.
 - Migrated from monolithic architecture to microservices, enhancing scalability and service isolation.
 - Wrote unit and integration tests with JUnit and Mockito, improving code reliability and reducing production defects.
-- Used Docker, GitHub Actions, and Azure Kubernetes Service for deployment and infrastructure management.
+- Used Docker, GitHub Actions, and AWS Kubernetes Service for deployment and infrastructure management.
 - Delivered features iteratively in Agile sprints using JIRA.
 
 ---
@@ -114,13 +116,13 @@ Hyderabad, India | Jan 2021 – Apr 2021
 
 ### Anna Books – Accounting & Billing Platform  
 **Role:** Full Stack Developer | NITYA Software Solutions | May 2021 – Jul 2023  
-**Tech Stack:** React.js, TypeScript, Spring Boot, GraphQL, MySQL, Redis, Docker, Kubernetes, Azure.
+**Tech Stack:** React.js, TypeScript, Spring Boot, GraphQL, MySQL, Redis, Docker, Kubernetes, AWS.
 
 - Developed 250+ reusable UI components for core financial modules.
 - Created secure REST and GraphQL APIs for billing, role management, and reporting.
 - Implemented JWT-based authentication and RBAC.
 - Reduced response times on financial queries by 30% using Redis caching.
-- Refactored legacy systems into microservices and deployed on Azure AKS.
+- Refactored legacy systems into microservices and deployed on AWS Cloud.
 
 ---
 
@@ -137,11 +139,12 @@ Hyderabad, India | Jan 2021 – Apr 2021
 
 ## Certifications
 
-- Spring Boot & Microservices – Udemy.  
+- Spring Boot & Microservices Development – Udemy.  
 - AWS Developer Training – LinkedIn Learning.  
-- React Developer – LinkedIn Learning.  
+- React Essential Training– LinkedIn Learning.  
 - Microsoft Azure AI Essentials – Microsoft. 
 - Career Essentials in Software Development – LinkedIn/Microsoft.
+- Docker Foundations – Docker, Inc.
 
 ---
 
