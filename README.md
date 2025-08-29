@@ -10,11 +10,20 @@
 
 ## About Me
 
-I am a Full Stack Developer with 3+ years of experience building secure web applications, scalable microservices, and data-driven platforms. I specialize in delivering full-stack systems using React.js, Spring Boot, Node.js, and PySpark, along with CI/CD automation and cloud deployments on AWS.
+I am a Full Stack Developer with 3+ years of experience building secure web applications, scalable microservices, and AI-powered platforms. I specialize in delivering end-to-end systems using React.js, Spring Boot, Node.js, and PySpark, with CI/CD automation and cloud deployments on AWS.
 
-Currently at D3E Studio, I contribute to a resume intelligence platform by building authentication systems, integrating Solr-based semantic search, engineering resume parsing pipelines using PySpark, Airflow, & delivering recruiter-facing dashboards with Power BI.
+**At D3E Studio, I:**
+- Built authentication systems, recruiter & candidate dashboards, and cloud-native microservices.
+- Developed AI-powered features including semantic search with vector DBs and a multi-agent resume parsing pipeline.
+- Engineered data workflows using PySpark & Airflow, and delivered analytics dashboards with Power BI.
+- I also worked on Annabooks, a QuickBooks-like SaaS platform, collaborating with finance teams to build accounting workflows, reporting dashboards, and microservices.
 
-I enjoy solving complex engineering problems end-to-end — from UI performance to secure APIs and real-time analytics.
+**Beyond work, I have completed academic and personal projects :**
+- Pneumonia Detection with Vision Transformers (ViT + CNN) – achieved >90% accuracy.
+- Smart Resume Analyzer (NLP + FastAPI) – automated insights & job match scoring.
+- House Price Prediction (ML + Flask) – real-time property price estimation.
+- IoT Smart Plant Watering System (Arduino + Sensors) – automated irrigation with data-driven control.
+- I enjoy solving engineering problems from UI/UX to backend APIs, scalable cloud deployments, and real-time AI-driven analytics.
 
 **Core Strengths:**
 
