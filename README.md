@@ -18,10 +18,12 @@ I enjoy solving complex engineering problems end-to-end — from UI performance 
 
 **Core Strengths:**
 
-- **Full Stack Development:** Spring Boot, Node.js, React.js, Tailwind CSS.  
-- **DevOps & Cloud:** Docker, GitHub Actions, AWS (S3, ECS, EC2), Azure.  
-- **Data Engineering & Analytics:** PySpark, Airflow, SQL, Hadoop, Power BI.  
-- **API Security:** OAuth 2.0, JWT, RBAC.  
+- **Full Stack Development:** React.js, Tailwind CSS, Spring Boot, Node.js, TypeScript.
+- **Cloud & DevOps:** AWS (EC2, ECS, S3, RDS), Docker, Kubernetes, GitHub Actions, CI/CD.
+- **Databases & Storage:** MySQL, MongoDB, PostgreSQL, Vector Databases (Qdrant, Solr).
+- **Data Engineering & Analytics:** PySpark, Airflow, Hadoop, Power BI.
+- **AI & ML:** Semantic Search, NLP, Vision Transformers, Machine Learning Models
+- **Tools & Practices:** JUnit, Mockito, Agile/Scrum, RBAC, REST/GraphQL APIs.  
 
 ---
 
