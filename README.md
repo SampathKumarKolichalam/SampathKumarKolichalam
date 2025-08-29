@@ -1,6 +1,6 @@
 # Sampath Kumar Kolichalam
 
-**Full Stack Developer | Backend & Data Engineer | Cloud-Native DevOps Enthusiast**  
+**Full Stack Developer | Backend & Data Engineer | AI & Cloud-Native Enthusiast**  
 **Location:** Salt Lake City, UT  
 **Email:** [sampathkumarkolichalam@gmail.com](mailto:sampathkumarkolichalam@gmail.com)  
 **Phone:** (330) 554-1481  
