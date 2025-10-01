@@ -1,7 +1,7 @@
 # Sampath Kumar Kolichalam
 
-**Data Engineer | DevOps & Cloud-Native Enthusiast | Backend & API's | Multi Agents, Vector DBs, Semantic Search, LLM's & Gen AI** 
-**Location:** Salt Lake City, UT, USA 
+**Data Engineer | DevOps & Cloud-Native Enthusiast | Backend & API's | Multi Agents, Vector DBs, Semantic Search, LLM's & Gen AI**  
+**Location:** Salt Lake City, UT, USA  
 **Email:** [sampathkumarkolichalam@gmail.com](mailto:sampathkumarkolichalam@gmail.com)  
 **Phone:** (330) 554-1481  
 **[LinkedIn](https://www.linkedin.com/in/sampath-kumar-kolichalam-18b57b1ab/)**  | **[GitHub](https://github.com/SampathKumarKolichalam)**
