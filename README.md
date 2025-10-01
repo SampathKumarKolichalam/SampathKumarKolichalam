@@ -1,7 +1,7 @@
 # Sampath Kumar Kolichalam
 
-**Full Stack Developer | Backend & Data Engineer | AI & Cloud-Native Enthusiast**  
-**Location:** Salt Lake City, UT  
+**Data Engineer | DevOps & Cloud-Native Enthusiast | Backend & API's | Multi Agents, Vector DBs, Semantic Search, LLM's & Gen AI** 
+**Location:** Salt Lake City, UT, USA
 **Email:** [sampathkumarkolichalam@gmail.com](mailto:sampathkumarkolichalam@gmail.com)  
 **Phone:** (330) 554-1481  
 **[LinkedIn](https://www.linkedin.com/in/sampath-kumar-kolichalam-18b57b1ab/)**  | **[GitHub](https://github.com/SampathKumarKolichalam)**
@@ -10,106 +10,97 @@
 
 ## About Me
 
-I am a Full Stack Developer with 3+ years of experience building secure web applications, scalable microservices, and AI-powered platforms. I specialize in delivering end-to-end systems using React.js, Spring Boot, Node.js, and PySpark, with CI/CD automation and cloud deployments on AWS.
+👋 Hi, I am Sampath Kumar Kolichalam — a Data Engineer with 2+ years of experience designing and deploying scalable pipelines. I work at the intersection of big data engineering, cloud infrastructure, and software engineering.
 
-**At D3E Studio:**
-- Built authentication systems, recruiter & candidate dashboards, and cloud-native microservices.
-- Developed AI-powered features including semantic search with vector DBs and a multi-agent resume parsing pipeline.
-- Engineered data workflows using PySpark & Airflow, and delivered analytics dashboards with Power BI.
-- I also worked on Annabooks, a QuickBooks-like SaaS platform, collaborating with finance teams to build accounting workflows, reporting dashboards, and microservices.
+**Currently at JOBSNPROFILES LLC, I contribute to an AI-Powered Recruitment SaaS platform where I:**
+- Built a scalable batch resume parsing pipeline using PySpark, Airflow, Hadoop, and Azure Data Factory.
+- Developed a resume parsing pipeline with Kafka & Spring Boot Microservices on AKS with REST API's.
+- Integrated Ollama & Deepseek LLMs to convert resumes into structured JSON formats.
+- Enabled monitoring with Azure Monitor, Log Analytics, and Power BI to track pipeline health & latency.
+- Integrate Solr and Vector DBs for intelligent candidate-job matching and semantic search workflows.
 
 **Beyond work, I have completed academic and personal projects:**
 - Pneumonia Detection with Vision Transformers (ViT + CNN) – achieved >90% accuracy.
 - Smart Resume Analyzer (NLP + FastAPI) – automated insights & job match scoring.
 - House Price Prediction (ML + Flask) – real-time property price estimation.
 - IoT Smart Plant Watering System (Arduino + Sensors) – automated irrigation with data-driven control.
-- I enjoy solving engineering problems from UI/UX to backend APIs, scalable cloud deployments, and real-time AI-driven analytics.
+- I enjoy solving engineering problems from Scalable Data Pipelines, Backend APIs, scalable cloud deployments, and real-time AI-driven analytics.
 
-**Core Strengths:**
+**Core Skills:**
 
-- **Full Stack Development:** React.js, Tailwind CSS, Spring Boot, Node.js, TypeScript.
-- **Cloud & DevOps:** AWS (EC2, ECS, S3, RDS), Docker, Kubernetes, GitHub Actions, CI/CD.
-- **Databases & Storage:** MySQL, MongoDB, PostgreSQL, Vector Databases (Qdrant, Solr).
-- **Data Engineering & Analytics:** PySpark, Airflow, Hadoop, Power BI.
-- **AI & ML:** Semantic Search, NLP, Vision Transformers, Machine Learning Models
-- **Tools & Practices:** JUnit, Mockito, Agile/Scrum, RBAC, REST/GraphQL APIs.  
+- **Programming & Scripting:** Java, Python, SQL, Linux, Bash & Shell Scripting.
+- **Databases & Storage:** MySQL, PostgreSQL, MongoDB, Spark SQL, Apache Solr, Delta Lake. 
+- **Big Data Engineering:** Hadoop, PySpark, Airflow, Kafka, Databricks, Snowflake, ETL/ELT Workflows.
+- **DevOps & Cloud:**  Microsoft Azure, AWS, Docker, Kubernetes, Git, GitHub Actions, CI/CD.
+- **Applied AI & LLMs:** Prompt Engineering, Embeddings, Vector DB (Qdrant), Semantic Search, Multi Agents, LLMs, Gen AI.
+- **Monitoring, Analytics & Visualization:** Azure Monitor, Azure Log Analytics, Microsoft Power BI.
+- **Tools & APIs:** REST APIs, Spring Boot, RBAC, JWT, Pytest, Agile, SDLC, JIRA.
 
 ---
 
 ## Education
 
-**Kent State University, OH**  
+**Kent State University, Ohio, USA**  
 M.S. in Computer Science  
 Aug 2023 – Dec 2024  
 GPA: 3.8/4.0
 
-**Lingaya’s Vidyapeeth, India**  
+**Lingaya’s Vidyapeeth, Delhi, India**  
 B.Tech in Computer Science & Engineering  
-Aug 2018 – Jun 2022  
+Aug 2019 – Jun 2023  
 CGPA: 9.2/10
-
----
-
-## Technical Skills
-
-**Languages:** Java, JavaScript, TypeScript, Python, SQL.  
-**Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap.  
-**Backend & APIs:** Spring Boot, Node.js, GraphQL, REST APIs, JWT, OAuth 2.0.  
-**Databases:** MySQL, PostgreSQL, MongoDB, Vector DB.  
-**Data Engineering:** PySpark, Apache Airflow, Power BI, Apache Solr, Semantic Search.  
-**DevOps & Cloud:** Docker, Kubernetes, GitHub Actions, AWS (ECS, S3, EC2), Azure.  
-**Tools:** JIRA, Postman, Thunder Client, JUnit, Git, Agile, RBAC.
 
 ---
 
 ## Professional Experience
 
-### D3E Studio Inc — Full Stack Developer  
+### JobsnProfiles LLC — Data Engineer  
 Salt Lake City, UT | Aug 2024 – Present
 
-- Built scalable Spring Boot and Node.js microservices for authentication, user profile, and recruiter workflows.
-- Developed reusable frontend components using React.js and Tailwind CSS for a resume intelligence platform.
-- Integrated MongoDB, MySQL, and Apache Solr for storage, analytics, and high-speed candidate search.
-- Developed automated resume parsing pipelines using PySpark and Airflow over distributed Hadoop clusters.
-- Delivered recruiter dashboards in Power BI using Delta Lake as the analytical backend.
-- Managed CI/CD and cloud deployments using Docker, GitHub Actions, and AWS ECS.
+- Built batch parser pipeline on 40-Node Hadoop cluster processing 30K+ resumes/day with 25% faster.
+- Built Kafka-based real-time resume parser on AKS powering signups, job fairs, optimizers handling 20K+ resumes/event. 
+- Developed REST API’s with Spring Boot & SQL Server reducing auth latency by 35% & enhancing security with RBAC. 
+- Improved Airflow , PySpark jobs to reduce task failures by 40% & improve scheduling reliability across resume parser pipelines. 
+- Automated resume validation, deduplication via DB agents, improving data quality & accuracy by 30%. 
+- Delivered insights with Power BI and Azure Monitor, increasing pipeline observability & uptime by 45%.
 
 ---
 
-### NITYA Software Solutions — Full Stack Developer  
-Hyderabad, India | May 2021 – Jul 2023
+### NITYA Software Solutions — Data Engineer 
+Hyderabad, India | May 2022 – Jul 2023
 
-- Designed 250+ UI components for a subscription-based accounting and billing platform using React.js and TypeScript.
-- Developed Spring Boot-based REST and GraphQL APIs for billing, payments, user roles, and transactions.
-- Integrated Redis caching, improving API performance for financial reports and queries.
-- Migrated from monolithic architecture to microservices, enhancing scalability and service isolation.
-- Wrote unit and integration tests with JUnit and Mockito, improving code reliability and reducing production defects.
-- Used Docker, GitHub Actions, and AWS Kubernetes Service for deployment and infrastructure management.
-- Delivered features iteratively in Agile sprints using JIRA.
+- Built ETL pipelines using Azure Data Factory and SQL Server to automate billing and payroll loads.
+- Improved invoice data quality through PySpark cleansing and validation scripts on Azure Databricks.
+- Automated daily ingestion jobs with Azure Functions to boost data freshness and report accuracy.
+- Optimized billing and payroll data pipelines using PySpark and SQL, improving dashboard load speed.
+- Created Power BI dashboards to help finance teams track key performance indicators (KPIs) and reduce manual reporting time.
+- Collaborated in Agile sprints with analysts and developers to accelerate feature delivery using Azure DevOps.
 
 ---
 
 ### AI Walkers — Python Developer Intern  
-Hyderabad, India | Jan 2021 – Apr 2021
+Hyderabad, India | Aug 2021 – Jan 2022
 
-- Automated data processing workflows using Python, Pandas, and NumPy, reducing manual effort by 40%.
-- Tuned SQL queries and integrated REST APIs for faster data ingestion and throughput.
-- Created text classification scripts for NLP tasks like document classification and extraction.
-- Deployed Flask APIs to serve ML models in real-time applications.
+- Automated ETL pipelines using Python, Pandas, NumPy to reduce manual process & improve quality.
+- Built REST APIs in Flask to serve ML models for real-time data classification and NLP processing.
+- Developed SQL queries & API integrations to enhance backend performance & improve data pipelines.
+- Created ML-based scripts for text classification tasks on structured and unstructured datasets.
 
 ---
 
 ## Projects
 
-### JobsnProfiles Platform – Resume Intelligence System  
-**Role:** Full Stack Developer | D3E Studio | Aug 2024 – Present  
-**Tech Stack:** React.js, Tailwind CSS, Spring Boot, Node.js, PySpark, Airflow, Apache Solr, MongoDB, MySQL, Power BI, Docker, GitHub Actions, AWS.
+### JobsnProfiles Platform – AI-Powered Recruitment SaaS Platform  
+**Role:** Data Engineer | JobsnProfiles | Aug 2024 – Present  
+**Tech Stack:** PySpark, Hadoop, Azure, MySQL, Airflow, Spring Boot, Power BI, LLM's, Semantic Search, Gen AI.
 
-- Developed modules for user profiles, authentication (OAuth 2.0, JWT), and user activity tracking.
-- Integrated Apache Solr for high-speed resume and candidate search.
-- Created automated parsing pipelines using PySpark and Airflow.
-- Built dashboards with Power BI, enabling recruiters to visualize actionable insights.
-- Deployed microservices via Docker and AWS ECS with CI/CD workflows using GitHub Actions.
+- AI-Powered Recruitment SaaS platform for candidate profiling, resume parsing, recruiter workflows & virtual job fairs. 
+- Built scalable batch resume parsing pipeline using PySpark, Airflow, Hadoop & Azure Data Factory for bulk ingestion. 
+- Developed real-time parsing pipeline with Kafka & Spring Boot microservices on AKS with secure REST APIs. 
+- Designed multi-agent architecture for parsing text extraction, cleaning, sectioning, validation & deduplication. 
+- Integrated Ollama & DeepSeek LLMs to convert resumes into structured JSON formats via downstream agents. 
+- Stored raw resumes in Azure Blob, JSON in MySQL, metadata in MongoDB & semantic vectors in Solr/Qdrant. 
+- Enabled monitoring with Azure Monitor, Log Analytics, and Power BI to track pipeline health and latency.
 
 ---
 
@@ -126,8 +117,8 @@ Hyderabad, India | Jan 2021 – Apr 2021
 ---
 
 ### Anna Books – Accounting & Billing Platform  
-**Role:** Full Stack Developer | NITYA Software Solutions | May 2021 – Jul 2023  
-**Tech Stack:** React.js, TypeScript, Spring Boot, GraphQL, MySQL, Redis, Docker, Kubernetes, AWS.
+**Role:** Data Engineer | NITYA Software Solutions | May 2022 – Jul 2023  
+**Tech Stack:** Python, PySpark, MySQL, PySpark, Power BI, Airflow, Azure, DevOps.
 
 - Developed 250+ reusable UI components for core financial modules.
 - Created secure REST and GraphQL APIs for billing, role management, and reporting.
@@ -137,7 +128,7 @@ Hyderabad, India | Jan 2021 – Apr 2021
 
 ---
 
-### Smart Resume Analyzer – AI & NLP Based Tool  
+### Smart Resume Analyzer – AI & NLP Based Tool 
 **Tech Stack:** Python, SpaCy, FastAPI, MongoDB, Streamlit, Flask, Docker.  
 [GitHub Repository](https://github.com/SampathKumarKolichalam/Smart-Resume-Analysis-Using-NLP)
 
@@ -152,7 +143,6 @@ Hyderabad, India | Jan 2021 – Apr 2021
 
 - Spring Boot & Microservices Development – Udemy.  
 - AWS Developer Training – LinkedIn Learning.  
-- React Essential Training– LinkedIn Learning.  
 - Microsoft Azure AI Essentials – Microsoft. 
 - Career Essentials in Software Development – LinkedIn/Microsoft.
 - Docker Foundations – Docker, Inc.
