@@ -2,6 +2,7 @@
 
 **Data Engineer | DevOps & Cloud-Native Enthusiast | Backend & API's | Multi Agents, Vector DBs, Semantic Search, LLM's & Gen AI** 
 **Location:** Salt Lake City, UT, USA 
+
 **Email:** [sampathkumarkolichalam@gmail.com](mailto:sampathkumarkolichalam@gmail.com)  
 **Phone:** (330) 554-1481  
 **[LinkedIn](https://www.linkedin.com/in/sampath-kumar-kolichalam-18b57b1ab/)**  | **[GitHub](https://github.com/SampathKumarKolichalam)**
@@ -90,7 +91,7 @@ Hyderabad, India | Aug 2021 – Jan 2022
 
 ## Projects
 
-### JobsnProfiles Platform – AI-Powered Recruitment SaaS Platform  
+### JobsnProfiles Platform – AI Powered Recruitment SaaS Platform  
 **Role:** Data Engineer | JobsnProfiles | Aug 2024 – Present  
 **Tech Stack:** PySpark, Hadoop, Azure, MySQL, Airflow, Spring Boot, Power BI, LLM's, Semantic Search, Gen AI.
 
