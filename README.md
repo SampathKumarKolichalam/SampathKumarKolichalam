@@ -120,11 +120,12 @@ Hyderabad, India | Aug 2021 – Jan 2022
 **Role:** Data Engineer | NITYA Software Solutions | May 2022 – Jul 2023  
 **Tech Stack:** Python, PySpark, MySQL, PySpark, Power BI, Airflow, Azure, DevOps.
 
-- Developed 250+ reusable UI components for core financial modules.
-- Created secure REST and GraphQL APIs for billing, role management, and reporting.
-- Implemented JWT-based authentication and RBAC.
-- Reduced response times on financial queries by 30% using Redis caching.
-- Refactored legacy systems into microservices and deployed on AWS Cloud.
+- Built ETL pipelines using Azure Data Factory and SQL Server to automate Billing and Payroll loads.
+- Improved invoice data quality through PySpark cleansing and validation scripts on Azure Databricks.
+- Automated daily ingestion jobs with Azure Functions to boost data freshness and report accuracy.
+- Optimized billing and payroll data pipelines using PySpark and SQL, improving dashboard load speed.
+- Created Power BI dashboards to help finance teams track key performance indicators (KPIs) and reduce manual reporting time.
+- Collaborated in Agile sprints with analysts and developers to accelerate feature delivery using Azure DevOps.
 
 ---
 
