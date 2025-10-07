@@ -10,7 +10,7 @@
 
 ## About Me
 
-👋 Hi, I am Sampath Kumar Kolichalam — a Data Engineer with 2+ years of experience designing and deploying scalable pipelines. I work at the intersection of big data engineering, cloud infrastructure, and software engineering.
+👋 Hi, I am Sampath Kumar Kolichalam — a Data Engineer with 3+ years of experience designing and deploying scalable pipelines. I work at the intersection of big data engineering, cloud infrastructure, and software engineering.
 
 **Currently at JOBSNPROFILES LLC, I contribute to an AI-Powered Recruitment SaaS platform where I:**
 - Built a scalable batch resume parsing pipeline using PySpark, Airflow, Hadoop, and Azure Data Factory.
@@ -55,7 +55,7 @@ CGPA: 9.2/10
 ## Professional Experience
 
 ### JobsnProfiles LLC — Data Engineer  
-Salt Lake City, UT | Aug 2024 – Present
+Salt Lake City, UT | May 2024 – Present
 
 - Built batch parser pipeline on 40-Node Hadoop cluster processing 30K+ resumes/day with 25% faster.
 - Built Kafka-based real-time resume parser on AKS powering signups, job fairs, optimizers handling 20K+ resumes/event. 
@@ -67,7 +67,7 @@ Salt Lake City, UT | Aug 2024 – Present
 ---
 
 ### NITYA Software Solutions — Data Engineer 
-Hyderabad, India | May 2022 – Jul 2023
+Hyderabad, India | Jan 2022 – Jul 2023
 
 - Built ETL pipelines using Azure Data Factory and SQL Server to automate billing and payroll loads.
 - Improved invoice data quality through PySpark cleansing and validation scripts on Azure Databricks.
@@ -79,7 +79,7 @@ Hyderabad, India | May 2022 – Jul 2023
 ---
 
 ### AI Walkers — Python Developer Intern  
-Hyderabad, India | Aug 2021 – Jan 2022
+Hyderabad, India | Aug 2021 – Dec 2021
 
 - Automated ETL pipelines using Python, Pandas, NumPy to reduce manual process & improve quality.
 - Built REST APIs in Flask to serve ML models for real-time data classification and NLP processing.
@@ -91,7 +91,7 @@ Hyderabad, India | Aug 2021 – Jan 2022
 ## Projects
 
 ### JobsnProfiles Platform – AI Powered Recruitment SaaS Platform  
-**Role:** Data Engineer | JobsnProfiles | Aug 2024 – Present  
+**Role:** Data Engineer | JobsnProfiles | May 2024 – Present  
 **Tech Stack:** PySpark, Hadoop, Azure, MySQL, Airflow, Spring Boot, Power BI, LLM's, Semantic Search, Gen AI.
 
 - AI-Powered Recruitment SaaS platform for candidate profiling, resume parsing, recruiter workflows & virtual job fairs. 
@@ -117,7 +117,7 @@ Hyderabad, India | Aug 2021 – Jan 2022
 ---
 
 ### Anna Books – Accounting & Billing Platform  
-**Role:** Data Engineer | NITYA Software Solutions | May 2022 – Jul 2023  
+**Role:** Data Engineer | NITYA Software Solutions | Jan 2022 – Jul 2023  
 **Tech Stack:** Python, PySpark, MySQL, PySpark, Power BI, Airflow, Azure, DevOps.
 
 - Built ETL pipelines using Azure Data Factory and SQL Server to automate Billing and Payroll loads.
