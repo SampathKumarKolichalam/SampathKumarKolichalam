@@ -1,6 +1,6 @@
 # Sampath Kumar Kolichalam
 
-**Data Engineer | DevOps & Cloud-Native Enthusiast | Backend & API's | Multi Agents, Vector DBs, Semantic Search, LLM's & Gen AI**  
+**Data Engineer | Backend & Cloud Engineer | PySpark, Airflow, Hadoop, Azure, Spring Boot, Kafka, Microservices, CI/CD, AWS, SQL, Power BI, LLMs/AI**  
 **Location:** Salt Lake City, UT, USA  
 **Email:** [sampathkumarkolichalam@gmail.com](mailto:sampathkumarkolichalam@gmail.com)  
 **Phone:** (330) 554-1481  
@@ -10,14 +10,14 @@
 
 ## About Me
 
-👋 Hi, I am Sampath Kumar Kolichalam — a Data Engineer with 3+ years of experience designing and deploying scalable pipelines. I work at the intersection of big data engineering, cloud infrastructure, and software engineering.
+👋 Hi, I am Sampath Kumar Kolichalam, a Data Engineer with 3+ years of experience building scalable data pipelines, real-time ingestion systems, and cloud-native backend services. My work sits at the intersection of Big Data Engineering, Cloud/DevOps & Backend Microservices.
 
 **Currently at JOBSNPROFILES LLC, I contribute to an AI-Powered Recruitment SaaS platform where I:**
-- Built a scalable batch resume parsing pipeline using PySpark, Airflow, Hadoop, and Azure Data Factory.
-- Developed a resume parsing pipeline with Kafka & Spring Boot Microservices on AKS with REST API's.
-- Integrated Ollama & Deepseek LLMs to convert resumes into structured JSON formats.
-- Enabled monitoring with Azure Monitor, Log Analytics, and Power BI to track pipeline health & latency.
-- Integrate Solr and Vector DBs for intelligent candidate-job matching and semantic search workflows.
+- Built scalable batch pipelines using PySpark, Airflow, Hadoop, and ADF, processing 30K+ resumes/day.
+- Developed real-time resume ingestion using Kafka + Spring Boot Microservices deployed on AKS.
+- Integrated Ollama & Deep Seek LLMs to convert unstructured resumes into structured JSON formats.
+- Implemented monitoring & observability with Azure Monitor, Log Analytics, and Power BI.
+- Designed semantic search & matching workflows using Apache Solr, Embeddings, and Vector DB's (Qdrant DB).
 
 **Beyond work, I have completed academic and personal projects:**
 - Pneumonia Detection with Vision Transformers (ViT + CNN) – achieved >90% accuracy.
@@ -34,7 +34,8 @@
 - **DevOps & Cloud:**  Microsoft Azure, AWS, Docker, Kubernetes, Git, GitHub Actions, CI/CD.
 - **Applied AI & LLMs:** Prompt Engineering, Embeddings, Vector DB (Qdrant), Semantic Search, Multi Agents, LLMs, Gen AI.
 - **Monitoring, Analytics & Visualization:** Azure Monitor, Azure Log Analytics, Microsoft Power BI.
-- **Tools & APIs:** REST APIs, Spring Boot, RBAC, JWT, Pytest, Agile, SDLC, JIRA.
+- **Backend & APIs:** Spring Boot, Node.js, Microservices, REST/GraphQL, JWT, OAuth 2.0.
+- **Tools & Practices:** Agile, Scrum, SDLC, JIRA, Pytest, DBT, Thunder Client, Version Control(Git).
 
 ---
 
@@ -57,34 +58,39 @@ CGPA: 9.2/10
 ### JobsnProfiles LLC — Data Engineer  
 Salt Lake City, UT | May 2024 – Present
 
-- Built batch parser pipeline on 40-Node Hadoop cluster processing 30K+ resumes/day with 25% faster.
-- Built Kafka-based real-time resume parser on AKS powering signups, job fairs, optimizers handling 20K+ resumes/event. 
-- Developed REST API’s with Spring Boot & SQL Server reducing auth latency by 35% & enhancing security with RBAC. 
-- Improved Airflow , PySpark jobs to reduce task failures by 40% & improve scheduling reliability across resume parser pipelines. 
-- Automated resume validation, deduplication via DB agents, improving data quality & accuracy by 30%. 
-- Delivered insights with Power BI and Azure Monitor, increasing pipeline observability & uptime by 45%.
+- Designed and optimized a batch resume parsing pipeline on a 40-node Hadoop cluster, processing 30K+ resumes/day with 25% higher throughput.
+- Built a Kafka-based real-time ingestion system on AKS to power signups, job fairs, and optimizer workflows, handling 20K+ events/resumes per job fair.
+- Developed and deployed Spring Boot microservices with MySQL, reducing authentication latency by 35% and improving RBAC-driven security across modules.
+- Refactored Airflow DAGs and PySpark jobs to reduce task failures by 40% and increase cross-pipeline scheduling reliability.
+- Implemented resume validation & deduplication logic using SQL and PySpark, improving data quality and match accuracy by 30%.
+- Integrated semantic search workflows using Embeddings, Solr, and Qdrant Vector DB, improving recruiter match scoring and search relevance.
+- Delivered end-to-end monitoring dashboards with Azure Monitor, Log Analytics, and Power BI, increasing pipeline observability and uptime by 45%.
+- Collaborated with backend, AI, and data teams to support RAG workflows, embeddings-based models, and automated parsing pipelines.
 
 ---
 
 ### NITYA Software Solutions — Data Engineer 
 Hyderabad, India | Jan 2022 – Jul 2023
 
-- Built ETL pipelines using Azure Data Factory and SQL Server to automate billing and payroll loads.
-- Improved invoice data quality through PySpark cleansing and validation scripts on Azure Databricks.
-- Automated daily ingestion jobs with Azure Functions to boost data freshness and report accuracy.
-- Optimized billing and payroll data pipelines using PySpark and SQL, improving dashboard load speed.
-- Created Power BI dashboards to help finance teams track key performance indicators (KPIs) and reduce manual reporting time.
-- Collaborated in Agile sprints with analysts and developers to accelerate feature delivery using Azure DevOps.
+-  Built automated ETL pipelines using Azure Data Factory and SQL Server to streamline billing, payroll, and finance workflows across teams.
+-  Improved invoice & payroll data quality by 35% through PySpark-based cleansing, validation rules, and anomaly detection scripts on Azure Databricks.
+-  Automated daily ingestion workloads using Azure Functions, increasing data freshness and report accuracy by 40%.
+- Optimized PySpark and SQL transformations for billing pipelines, improving dashboard query speed and load time by 30%.
+- Developed Power BI dashboards for finance KPIs, reducing manual reporting dependency by 50% and improving decision-making.
+- Enhanced data models using fact/dimension schemas, improving analytic query performance by 40%.
+- Collaborated with analysts and backend teams in Agile sprints to improve KPIs, unify data definitions, and accelerate delivery with Azure DevOps.
 
 ---
 
 ### AI Walkers — Python Developer Intern  
 Hyderabad, India | Aug 2021 – Dec 2021
 
-- Automated ETL pipelines using Python, Pandas, NumPy to reduce manual process & improve quality.
-- Built REST APIs in Flask to serve ML models for real-time data classification and NLP processing.
-- Developed SQL queries & API integrations to enhance backend performance & improve data pipelines.
-- Created ML-based scripts for text classification tasks on structured and unstructured datasets.
+- Developed Python scripts using Pandas, NumPy, and SQL to automate data preparation tasks for course analytics and student activity reports.
+- Built lightweight Flask REST APIs to deliver ML model outputs such as text classification and course-recommendation insights.
+- Assisted in creating backend integrations for course content modules, improving load times and API responsiveness.
+- Implemented basic ML pipelines for text classification, helping categorize course reviews and learner feedback.
+- Supported the team in cleaning structured and unstructured datasets, improving dataset usability for internal NLP experiments.
+- Collaborated with developers and content teams to enhance platform features, debug issues, and improve reliability during product updates.
 
 ---
 
