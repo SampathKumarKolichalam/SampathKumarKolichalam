@@ -1,6 +1,6 @@
 # Sampath Kumar Kolichalam
 
-**Data Engineer | Backend & Cloud Engineer | PySpark, Airflow, Hadoop, Azure, Spring Boot, Kafka, Microservices, CI/CD, AWS, SQL, Power BI, LLMs/AI**  
+**Data Engineer | Backend & Cloud Engineer | PySpark, Airflow, Hadoop, Azure, Spring Boot, Kafka, Microservices, CI/CD, AWS, SQL, Power BI, LLMs/AI.**  
 **Location:** Salt Lake City, UT, USA  
 **Email:** [sampathkumarkolichalam@gmail.com](mailto:sampathkumarkolichalam@gmail.com)  
 **Phone:** (330) 554-1481  
