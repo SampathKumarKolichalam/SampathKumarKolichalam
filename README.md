@@ -24,6 +24,7 @@ raw data into trusted datasets that support analytics, reporting, and machine le
 - I enjoy solving engineering problems from Scalable Data Pipelines, Backend APIs, scalable cloud deployments, and real-time ML/AI-driven analytics.
 
 **Core Skills:**  
+
 **Programming & Scripting:** Python, SQL, Java, Bash/Shell, Linux.  
 **Databases & Storage:** PostgreSQL, MySQL, MongoDB, Hive, Spark SQL, Delta Lake, Amazon Redshift.   
 **Big Data Engineering:** PySpark, Apache Spark, Apache Airflow, Kafka, Hadoop (HDFS/Hive), Databricks, ETL/ELT Pipelines, Data Modeling.  
