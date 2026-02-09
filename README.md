@@ -9,11 +9,11 @@ raw data into trusted datasets that support analytics, reporting, and machine le
 
 **Currently, I work on large-scale financial data workflows where I:**
 
-• Develop batch and streaming data pipelines using PySpark, Apache Airflow, and Kafka.
-• Build serverless ingestion and orchestration workflows using AWS Glue, Lambda, and Step Functions.
-• Optimize data warehousing solutions in Amazon Redshift.
-• Implement data quality validation and monitoring frameworks.
-• Enable ML and LLM workflows through feature engineering and production data pipelines.
+- Develop batch and streaming data pipelines using PySpark, Apache Airflow, and Kafka.
+- Build serverless ingestion and orchestration workflows using AWS Glue, Lambda, and Step Functions.
+- Optimize data warehousing solutions in Amazon Redshift.
+- Implement data quality validation and monitoring frameworks.
+- Enable ML and LLM workflows through feature engineering and production data pipelines.
 
 **Beyond work, I have completed academic and personal projects:**
 
@@ -23,9 +23,9 @@ raw data into trusted datasets that support analytics, reporting, and machine le
 - IoT Smart Plant Watering System (Arduino + Sensors) – automated irrigation with data-driven control.
 - I enjoy solving engineering problems from Scalable Data Pipelines, Backend APIs, scalable cloud deployments, and real-time ML/AI-driven analytics.
 
-**Core Skills:**
-**Programming & Scripting:** Python, SQL, Java, Bash/Shell, Linux.
-**Databases & Storage:** PostgreSQL, MySQL, MongoDB, Hive, Spark SQL, Delta Lake, Amazon Redshift.
+**Core Skills:**  
+**Programming & Scripting:** Python, SQL, Java, Bash/Shell, Linux.  
+**Databases & Storage:** PostgreSQL, MySQL, MongoDB, Hive, Spark SQL, Delta Lake, Amazon Redshift.   
 **Big Data Engineering:** PySpark, Apache Spark, Apache Airflow, Kafka, Hadoop (HDFS/Hive), Databricks, ETL/ELT Pipelines, Data Modeling.
 **Cloud & Data Platforms:** AWS (S3, Glue, Lambda, Step Functions, Athena), Azure (ADF, Databricks), Data Lake & Lakehouse Architecture, Snowflake.
 **DevOps & Deployment:** Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins), Infrastructure as Code.
