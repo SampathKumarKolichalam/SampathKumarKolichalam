@@ -23,6 +23,8 @@ raw data into trusted datasets that support analytics, reporting, and machine le
 - IoT Smart Plant Watering System (Arduino + Sensors) – automated irrigation with data-driven control.
 - I enjoy solving engineering problems from Scalable Data Pipelines, Backend APIs, scalable cloud deployments, and real-time ML/AI-driven analytics.
 
+---
+
 **Core Skills:**  
 
 **Programming & Scripting:** Python, SQL, Java, Bash/Shell, Linux.  
