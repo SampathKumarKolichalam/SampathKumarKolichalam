@@ -1,13 +1,5 @@
 # Sampath Kumar Kolichalam
 
-**Data Engineer | Backend & Cloud Engineer | PySpark, Airflow, Hadoop, Azure, Spring Boot, Kafka, Microservices, CI/CD, AWS, SQL, Power BI, LLMs/AI.**  
-**Location:** United States  
-**Email:** [sampathkumarkolichalam@gmail.com](mailto:sampathkumarkolichalam@gmail.com)  
-**Phone:** (330) 554-1481  
-**[LinkedIn](https://www.linkedin.com/in/sampath-kumar-kolichalam-18b57b1ab/)**  | **[GitHub](https://github.com/SampathKumarKolichalam)**
-
----
-
 ## About Me
 
 👋 Hi, I am Sampath Kumar Kolichalam, a Data Engineer with 3+ years of experience building scalable data pipelines, real-time ingestion systems, and cloud-native backend services. My work sits at the intersection of Big Data Engineering, Cloud/DevOps & Backend Microservices.
