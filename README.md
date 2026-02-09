@@ -8,6 +8,7 @@ I specialize in designing and operating cloud-native ETL pipelines, distributed 
 raw data into trusted datasets that support analytics, reporting, and machine learning systems.
 
 **Currently, I work on large-scale financial data workflows where I:**
+
 • Develop batch and streaming data pipelines using PySpark, Apache Airflow, and Kafka.
 • Build serverless ingestion and orchestration workflows using AWS Glue, Lambda, and Step Functions.
 • Optimize data warehousing solutions in Amazon Redshift.
@@ -15,6 +16,7 @@ raw data into trusted datasets that support analytics, reporting, and machine le
 • Enable ML and LLM workflows through feature engineering and production data pipelines.
 
 **Beyond work, I have completed academic and personal projects:**
+
 - Pneumonia Detection with Vision Transformers (ViT + CNN) – achieved >90% accuracy.
 - Smart Resume Analyzer (NLP + FastAPI) – automated insights & job match scoring.
 - House Price Prediction (ML + Flask) – real-time property price estimation.
