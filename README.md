@@ -26,11 +26,11 @@ raw data into trusted datasets that support analytics, reporting, and machine le
 **Core Skills:**  
 **Programming & Scripting:** Python, SQL, Java, Bash/Shell, Linux.  
 **Databases & Storage:** PostgreSQL, MySQL, MongoDB, Hive, Spark SQL, Delta Lake, Amazon Redshift.   
-**Big Data Engineering:** PySpark, Apache Spark, Apache Airflow, Kafka, Hadoop (HDFS/Hive), Databricks, ETL/ELT Pipelines, Data Modeling.
-**Cloud & Data Platforms:** AWS (S3, Glue, Lambda, Step Functions, Athena), Azure (ADF, Databricks), Data Lake & Lakehouse Architecture, Snowflake.
-**DevOps & Deployment:** Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins), Infrastructure as Code.
-**Applied AI & LLMs:** Feature Engineering, Embeddings, Vector Databases (Qdrant), Semantic Search, RAG Pipelines, LLM Data Preparation.
-**Monitoring & Observability:** Pipeline Monitoring, Data Quality Validation, Azure Monitor, Log Analytics, Power BI.
+**Big Data Engineering:** PySpark, Apache Spark, Apache Airflow, Kafka, Hadoop (HDFS/Hive), Databricks, ETL/ELT Pipelines, Data Modeling.  
+**Cloud & Data Platforms:** AWS (S3, Glue, Lambda, Step Functions, Athena), Azure (ADF, Databricks), Data Lake & Lakehouse Architecture, Snowflake.  
+**DevOps & Deployment:** Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins), Infrastructure as Code.  
+**Applied AI & LLMs:** Feature Engineering, Embeddings, Vector Databases (Qdrant), Semantic Search, RAG Pipelines, LLM Data Preparation.  
+**Monitoring & Observability:** Pipeline Monitoring, Data Quality Validation, Azure Monitor, Log Analytics, Power BI.  
 **Tools & Practices:** Git, DBT, Pytest, REST APIs, Agile/Scrum, JIRA, SDLC.
 
 ---
