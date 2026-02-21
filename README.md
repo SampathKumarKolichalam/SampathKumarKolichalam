@@ -25,19 +25,6 @@ raw data into trusted datasets that support analytics, reporting, and machine le
 
 ---
 
-**Core Skills:**  
-
-**Programming & Scripting:** Python, SQL, Java, Bash/Shell, Linux.  
-**Databases & Storage:** PostgreSQL, MySQL, MongoDB, Hive, Spark SQL, Delta Lake, Amazon Redshift.   
-**Big Data Engineering:** PySpark, Apache Spark, Apache Airflow, Kafka, Hadoop (HDFS/Hive), Databricks, ETL/ELT Pipelines, Data Modeling.  
-**Cloud & Data Platforms:** AWS (S3, Glue, Lambda, Step Functions, Athena, RedShift, SageMaker, Cloud Formation, SDK), Azure (ADF, Databricks), Data Lake & Lakehouse Architecture, Snowflake.  
-**DevOps & Deployment:** Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins), Infrastructure as Code.  
-**Applied AI & LLMs:** Feature Engineering, Embeddings, Vector Databases (Qdrant), Semantic Search, RAG Pipelines, LLM Data Preparation.  
-**Monitoring & Observability:** Pipeline Monitoring, Data Quality Validation, Azure Monitor, Log Analytics, Power BI.  
-**Tools & Practices:** Git, DBT, Pytest, REST APIs, Agile/Scrum, JIRA, SDLC.
-
----
-
 ## Education
 
 **Kent State University, Ohio, USA**  
@@ -115,5 +102,4 @@ Outside of work, I enjoy playing cricket, travelling, and exploring current tech
 ## Contact
 
 **Email:** [sampathkumarkolichalam@gmail.com](mailto:sampathkumarkolichalam@gmail.com)  
-**LinkedIn:** [SampathKumarKolichalam](https://www.linkedin.com/in/sampath-kumar-kolichalam-18b57b1ab/)  
 **GitHub:** [@SampathKumarKolichalam](https://github.com/SampathKumarKolichalam)
