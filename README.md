@@ -1,27 +1,32 @@
 # Sampath Kumar Kolichalam
 
+---
 ## About Me
 
-👋 Hi, I am Sampath Kumar Kolichalam — a Cloud Data Engineer with 3+ years of experience building scalable data platforms and production data pipelines in enterprise environments.
+👋 Hi, I am Sampath Kumar Kolichalam, a Cloud Data Engineer with 3+ years of experience building scalable data pipelines and cloud-native data platforms. I work with AWS, PySpark, Airflow, Kafka, and distributed processing systems to transform raw, high-volume data into reliable datasets for analytics and machine learning. My focus is on automation, data quality, and production-ready data infrastructure. Alongside my professional work, I build end-to-end AI and data applications — including an NLP-based Smart Resume Analyzer, ML prediction systems, and real-time analytics dashboards, demonstrating practical experience in backend engineering, data engineering, and applied AI/ML.
 
-I specialize in designing and operating cloud-native ETL pipelines, distributed data processing, and reliable data infrastructure on AWS. My work focuses on transforming high-volume 
-raw data into trusted datasets that support analytics, reporting, and machine learning systems.
+---
 
-**Currently, I work on large-scale financial data workflows where I:**
+## Projects
 
-- Develop batch and streaming data pipelines using PySpark, Apache Airflow, and Kafka.
-- Build serverless ingestion and orchestration workflows using AWS Glue, Lambda, and Step Functions.
-- Optimize data warehousing solutions in Amazon Redshift.
-- Implement data quality validation and monitoring frameworks.
-- Enable ML and LLM workflows through feature engineering and production data pipelines.
+### Pneumonia Disease Detection – AI/ML for Healthcare  
+**Tech Stack:** TensorFlow, PyTorch, Vision Transformers, CNN, Flask, OpenCV, Docker.  
+[GitHub Repository](https://github.com/K-Roshini-Reddy/Capstone---Team_2)  
+[Demo Video](https://video.kent.edu/media/Capstone%20Project%20Demo/1_u6w5bck1)
 
-**Beyond work, I have completed academic and personal projects:**
+- Achieved 90.65% accuracy with a Vision Transformer model on chest X-ray data.
+- Reduced false positives by 25% compared to CNN benchmarks.
+- Deployed real-time prediction API using Flask and Docker.
+- Used OpenCV for data preprocessing and augmentation.
 
-- Pneumonia Detection with Vision Transformers (ViT + CNN) – achieved >90% accuracy.
-- Smart Resume Analyzer (NLP + FastAPI) – automated insights & job match scoring.
-- House Price Prediction (ML + Flask) – real-time property price estimation.
-- IoT Smart Plant Watering System (Arduino + Sensors) – automated irrigation with data-driven control.
-- I enjoy solving engineering problems from Scalable Data Pipelines, Backend APIs, scalable cloud deployments, and real-time ML/AI-driven analytics.
+### Smart Resume Analyzer – AI & NLP Based Tool 
+**Tech Stack:** Python, SpaCy, FastAPI, MongoDB, Streamlit, Flask, Docker.  
+[GitHub Repository](https://github.com/SampathKumarKolichalam/Smart-Resume-Analysis-Using-NLP)
+
+- Built NLP pipelines to extract structured fields from resumes.
+- Designed and deployed FastAPI endpoints for resume parsing and scoring.
+- Developed a Streamlit-based frontend for HR users.
+- Deployed using Docker and persisted results in MongoDB.
 
 ---
 
@@ -39,41 +44,14 @@ CGPA: 9.2/10.0
 
 ---
 
-## Projects
-
----
-
-### Pneumonia Disease Detection – AI/ML for Healthcare  
-**Tech Stack:** TensorFlow, PyTorch, Vision Transformers, CNN, Flask, OpenCV, Docker.  
-[GitHub Repository](https://github.com/K-Roshini-Reddy/Capstone---Team_2)  
-[Demo Video](https://video.kent.edu/media/Capstone%20Project%20Demo/1_u6w5bck1)
-
-- Achieved 90.65% accuracy with a Vision Transformer model on chest X-ray data.
-- Reduced false positives by 25% compared to CNN benchmarks.
-- Deployed real-time prediction API using Flask and Docker.
-- Used OpenCV for data preprocessing and augmentation.
-
----
-
-### Smart Resume Analyzer – AI & NLP Based Tool 
-**Tech Stack:** Python, SpaCy, FastAPI, MongoDB, Streamlit, Flask, Docker.  
-[GitHub Repository](https://github.com/SampathKumarKolichalam/Smart-Resume-Analysis-Using-NLP)
-
-- Built NLP pipelines to extract structured fields from resumes.
-- Designed and deployed FastAPI endpoints for resume parsing and scoring.
-- Developed a Streamlit-based frontend for HR users.
-- Deployed using Docker and persisted results in MongoDB.
-
----
-
 ## Certifications
 
-- AWS Certified Solutions Architect – Associate | Amazon Web Services.  
+- AWS Certified Data Engineer – Associate | Amazon Web Services(AWS).  
 - AWS Developer Training – LinkedIn Learning.  
 - Microsoft Azure AI Essentials – Microsoft. 
 - Career Essentials in Software Development – LinkedIn/Microsoft.
 - Docker Foundations – Docker, Inc.
-- Snowflake Data Cloud Certification | Snowflake.
+- AI Data Cloud Certification | Snowflake.
 - MySQL Developer Certification | Simplilearn.
 
 ---
