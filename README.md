@@ -47,11 +47,11 @@ CGPA: 9.2/10.0
 ## Certifications
 
 - AWS Certified Data Engineer – Associate | Amazon Web Services(AWS).  
-- AWS Developer Training – LinkedIn Learning.  
+- AWS Developer Training – LinkedIn Learning.
+- Databricks Certified Data Engineer – Databricks.
 - Microsoft Azure AI Essentials – Microsoft. 
 - Career Essentials in Software Development – LinkedIn/Microsoft.
 - Docker Foundations – Docker, Inc.
-- AI Data Cloud Certification | Snowflake.
 - MySQL Developer Certification | Simplilearn.
 
 ---
